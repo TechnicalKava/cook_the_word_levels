@@ -1,0 +1,810 @@
+{
+  "background": "FR",
+  "grid": [
+    [
+      {
+        "letter": "B",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "O",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "Z",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#9ACD32"
+      },
+      {
+        "letter": "O",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "I",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "F",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "E",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "E",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "M",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "V",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "E",
+        "wordIndex": 7,
+        "group": 0,
+        "color": "#808000"
+      }
+    ],
+    [
+      {
+        "letter": "Z",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "E",
+        "wordIndex": 3,
+        "group": 0,
+        "color": "#6B8E23"
+      },
+      {
+        "letter": "U",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#9ACD32"
+      },
+      {
+        "letter": "Y",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "J",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "S",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "E",
+        "wordIndex": 6,
+        "group": 0,
+        "color": "#6B3E75"
+      },
+      {
+        "letter": "L",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "Z",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "S",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "V",
+        "wordIndex": 7,
+        "group": 0,
+        "color": "#808000"
+      }
+    ],
+    [
+      {
+        "letter": "H",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "M",
+        "wordIndex": 3,
+        "group": 0,
+        "color": "#6B8E23"
+      },
+      {
+        "letter": "C",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#9ACD32"
+      },
+      {
+        "letter": "N",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "H",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "O",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "G",
+        "wordIndex": 6,
+        "group": 0,
+        "color": "#6B3E75"
+      },
+      {
+        "letter": "W",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "F",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "O",
+        "wordIndex": 5,
+        "group": 0,
+        "color": "#FF6347"
+      },
+      {
+        "letter": "I",
+        "wordIndex": 7,
+        "group": 0,
+        "color": "#808000"
+      }
+    ],
+    [
+      {
+        "letter": "A",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "Y",
+        "wordIndex": 3,
+        "group": 0,
+        "color": "#6B8E23"
+      },
+      {
+        "letter": "C",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#9ACD32"
+      },
+      {
+        "letter": "B",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "T",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "L",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "G",
+        "wordIndex": 6,
+        "group": 0,
+        "color": "#6B3E75"
+      },
+      {
+        "letter": "N",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "L",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "T",
+        "wordIndex": 5,
+        "group": 0,
+        "color": "#FF6347"
+      },
+      {
+        "letter": "L",
+        "wordIndex": 7,
+        "group": 0,
+        "color": "#808000"
+      }
+    ],
+    [
+      {
+        "letter": "D",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "H",
+        "wordIndex": 3,
+        "group": 0,
+        "color": "#6B8E23"
+      },
+      {
+        "letter": "H",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#9ACD32"
+      },
+      {
+        "letter": "P",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "D",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "A",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "P",
+        "wordIndex": 6,
+        "group": 0,
+        "color": "#6B3E75"
+      },
+      {
+        "letter": "V",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "M",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "A",
+        "wordIndex": 5,
+        "group": 0,
+        "color": "#FF6347"
+      },
+      {
+        "letter": "O",
+        "wordIndex": 7,
+        "group": 0,
+        "color": "#808000"
+      }
+    ],
+    [
+      {
+        "letter": "L",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "T",
+        "wordIndex": 3,
+        "group": 0,
+        "color": "#6B8E23"
+      },
+      {
+        "letter": "I",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#9ACD32"
+      },
+      {
+        "letter": "G",
+        "wordIndex": 0,
+        "group": 0,
+        "color": "#FFF8DC"
+      },
+      {
+        "letter": "A",
+        "wordIndex": 0,
+        "group": 0,
+        "color": "#FFF8DC"
+      },
+      {
+        "letter": "R",
+        "wordIndex": 0,
+        "group": 0,
+        "color": "#FFF8DC"
+      },
+      {
+        "letter": "L",
+        "wordIndex": 6,
+        "group": 0,
+        "color": "#6B3E75"
+      },
+      {
+        "letter": "I",
+        "wordIndex": 0,
+        "group": 0,
+        "color": "#FFF8DC"
+      },
+      {
+        "letter": "C",
+        "wordIndex": 0,
+        "group": 0,
+        "color": "#FFF8DC"
+      },
+      {
+        "letter": "M",
+        "wordIndex": 5,
+        "group": 0,
+        "color": "#FF6347"
+      },
+      {
+        "letter": "J",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      }
+    ],
+    [
+      {
+        "letter": "O",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "Z",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "N",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#9ACD32"
+      },
+      {
+        "letter": "N",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "S",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "F",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "A",
+        "wordIndex": 6,
+        "group": 0,
+        "color": "#6B3E75"
+      },
+      {
+        "letter": "V",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "F",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "O",
+        "wordIndex": 5,
+        "group": 0,
+        "color": "#FF6347"
+      },
+      {
+        "letter": "E",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      }
+    ],
+    [
+      {
+        "letter": "F",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "W",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "I",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#9ACD32"
+      },
+      {
+        "letter": "G",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "D",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "X",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "N",
+        "wordIndex": 6,
+        "group": 0,
+        "color": "#6B3E75"
+      },
+      {
+        "letter": "F",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "G",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "T",
+        "wordIndex": 5,
+        "group": 0,
+        "color": "#FF6347"
+      },
+      {
+        "letter": "U",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      }
+    ],
+    [
+      {
+        "letter": "C",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "A",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "B",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "M",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "U",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "R",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "T",
+        "wordIndex": 6,
+        "group": 0,
+        "color": "#6B3E75"
+      },
+      {
+        "letter": "N",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "H",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "Y",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "F",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      }
+    ],
+    [
+      {
+        "letter": "A",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "P",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "U",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "A",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "H",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "O",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#F5DEB3"
+      },
+      {
+        "letter": "N",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#F5DEB3"
+      },
+      {
+        "letter": "I",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#F5DEB3"
+      },
+      {
+        "letter": "O",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#F5DEB3"
+      },
+      {
+        "letter": "N",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#F5DEB3"
+      },
+      {
+        "letter": "K",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      }
+    ],
+    [
+      {
+        "letter": "S",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      },
+      {
+        "letter": "W",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      },
+      {
+        "letter": "E",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      },
+      {
+        "letter": "E",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      },
+      {
+        "letter": "T",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      },
+      {
+        "letter": "P",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      },
+      {
+        "letter": "E",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      },
+      {
+        "letter": "P",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      },
+      {
+        "letter": "P",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      },
+      {
+        "letter": "E",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      },
+      {
+        "letter": "R",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#FFA500"
+      }
+    ]
+  ],
+  "words": [
+    "GARLIC",
+    "SWEETPEPPER",
+    "ZUCCHINI",
+    "THYME",
+    "ONION",
+    "TOMATO",
+    "EGGPLANT",
+    "OLIVE"
+  ],
+  "wordsWithGroups": [
+    {
+      "word": "GARLIC",
+      "group": 0,
+      "color": "#FFF8DC"
+    },
+    {
+      "word": "SWEETPEPPER",
+      "group": 0,
+      "color": "#FFA500"
+    },
+    {
+      "word": "ZUCCHINI",
+      "group": 0,
+      "color": "#9ACD32"
+    },
+    {
+      "word": "THYME",
+      "group": 0,
+      "color": "#6B8E23"
+    },
+    {
+      "word": "ONION",
+      "group": 0,
+      "color": "#F5DEB3"
+    },
+    {
+      "word": "TOMATO",
+      "group": 0,
+      "color": "#FF6347"
+    },
+    {
+      "word": "EGGPLANT",
+      "group": 0,
+      "color": "#6B3E75"
+    },
+    {
+      "word": "OLIVE",
+      "group": 0,
+      "color": "#808000"
+    }
+  ],
+  "theme": "Ratatouille",
+  "size": {
+    "width": 11,
+    "height": 11
+  }
+}
