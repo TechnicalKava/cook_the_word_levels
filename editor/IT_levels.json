@@ -1,0 +1,387 @@
+[
+  {
+    "recipe": "IT_Level_1_PastaCarbonara_8x8",
+    "ingredients": [
+      {
+        "word": "POTATO",
+        "color": "#E2B765",
+        "translation": "картофель"
+      },
+      {
+        "word": "BACON",
+        "color": "#D95F4B",
+        "translation": "бекон"
+      },
+      {
+        "word": "CHEESE",
+        "color": "#FFE76B",
+        "translation": "сыр"
+      },
+      {
+        "word": "PASTA",
+        "color": "#F7C663",
+        "translation": "паста"
+      },
+      {
+        "word": "EGG",
+        "color": "#F6D75D",
+        "translation": "яйцо"
+      }
+    ]
+  },
+  {
+    "recipe": "IT_Level_2_PizzaMargherita_8x8",
+    "ingredients": [
+      {
+        "word": "DOUGH",
+        "color": "#F5D7A1",
+        "translation": "тесто"
+      },
+      {
+        "word": "OLIVE",
+        "color": "#3C3C3C",
+        "translation": "оливка"
+      },
+      {
+        "word": "TOMATO",
+        "color": "#E53A2E",
+        "translation": "помидор"
+      },
+      {
+        "word": "BASIL",
+        "color": "#56B870",
+        "translation": "базилик"
+      },
+      {
+        "word": "CHEESE",
+        "color": "#FFE25A",
+        "translation": "сыр"
+      }
+    ]
+  },
+  {
+    "recipe": "IT_Level_3_CaesarSalad_10x10",
+    "ingredients": [
+      {
+        "word": "CHICKEN",
+        "color": "#D6863C",
+        "translation": "курица"
+      },
+      {
+        "word": "LEMON",
+        "color": "#FFE138",
+        "translation": "лимон"
+      },
+      {
+        "word": "GARLIC",
+        "color": "#F2D9BA",
+        "translation": "чеснок"
+      },
+      {
+        "word": "PARMESAN",
+        "color": "#FFE38C",
+        "translation": "пармезан"
+      },
+      {
+        "word": "EGG",
+        "color": "#FAD65C",
+        "translation": "яйцо"
+      },
+      {
+        "word": "OLIVE",
+        "color": "#2F2F2F",
+        "translation": "оливка"
+      },
+      {
+        "word": "CROUTONS",
+        "color": "#E1A24A",
+        "translation": "сухарики"
+      },
+      {
+        "word": "LETTUCE",
+        "color": "#7CC74B",
+        "translation": "латук"
+      }
+    ]
+  },
+  {
+    "recipe": "IT_Level_4_Omelette_8x8",
+    "ingredients": [
+      {
+        "word": "MILK",
+        "color": "#F4F1EC",
+        "translation": "молоко"
+      },
+      {
+        "word": "SALT",
+        "color": "#DCE0E3",
+        "translation": "соль"
+      },
+      {
+        "word": "PEPPER",
+        "color": "#5A5A5A",
+        "translation": "перец"
+      },
+      {
+        "word": "CHEESE",
+        "color": "#FFE76B",
+        "translation": "сыр"
+      },
+      {
+        "word": "EGG",
+        "color": "#F6D75D",
+        "translation": "яйцо"
+      },
+      {
+        "word": "BUTTER",
+        "color": "#FFD166",
+        "translation": "масло"
+      }
+    ]
+  },
+  {
+    "recipe": "IT_Level_5_Caprese_10x10",
+    "ingredients": [
+      {
+        "word": "MOZZARELLA",
+        "color": "#b39bd3",
+        "translation": "моцарелла"
+      },
+      {
+        "word": "OLIVE",
+        "color": "#808000",
+        "translation": "оливка"
+      },
+      {
+        "word": "TOMATO",
+        "color": "#FF6347",
+        "translation": "помидор"
+      },
+      {
+        "word": "BASIL",
+        "color": "#228B22",
+        "translation": "базилик"
+      }
+    ]
+  },
+  {
+    "recipe": "IT_Level_6_Lasagna_9x9",
+    "ingredients": [
+      {
+        "word": "TOMAPASTE",
+        "color": "#e17d66",
+        "translation": "томатная паста"
+      },
+      {
+        "word": "TOMATO",
+        "color": "#FF6347",
+        "translation": "помидор"
+      },
+      {
+        "word": "ONION",
+        "color": "#F5DEB3",
+        "translation": "лук"
+      },
+      {
+        "word": "BEEF",
+        "color": "#8B4513",
+        "translation": "говядина"
+      },
+      {
+        "word": "PASTA",
+        "color": "#F5DEB3",
+        "translation": "паста"
+      },
+      {
+        "word": "OLIVE",
+        "color": "#808000",
+        "translation": "оливка"
+      },
+      {
+        "word": "CHEESE",
+        "color": "#FFE38C",
+        "translation": "сыр"
+      },
+      {
+        "word": "BASIL",
+        "color": "#228B22",
+        "translation": "базилик"
+      },
+      {
+        "word": "GARLIC",
+        "color": "#FFF8DC",
+        "translation": "чеснок"
+      }
+    ]
+  },
+  {
+    "recipe": "IT_Level_7_Risotto_9x9",
+    "ingredients": [
+      {
+        "word": "BUTTER",
+        "color": "#FFE4B5",
+        "translation": "масло"
+      },
+      {
+        "word": "RICE",
+        "color": "#ccbaf9",
+        "translation": "рис"
+      },
+      {
+        "word": "CHEESE",
+        "color": "#FFE38C",
+        "translation": "сыр"
+      },
+      {
+        "word": "BROTH",
+        "color": "#5b6277",
+        "translation": "бульон"
+      },
+      {
+        "word": "VINBLANC",
+        "color": "#b5e556",
+        "translation": "белое вино"
+      },
+      {
+        "word": "ONION",
+        "color": "#F5DEB3",
+        "translation": "лук"
+      },
+      {
+        "word": "GARLIC",
+        "color": "#FFF8DC",
+        "translation": "чеснок"
+      }
+    ]
+  },
+  {
+    "recipe": "IT_Level_8_Minestrone_10x10",
+    "ingredients": [
+      {
+        "word": "ONION",
+        "color": "#F5DEB3",
+        "translation": "лук"
+      },
+      {
+        "word": "OLIVE",
+        "color": "#808000",
+        "translation": "оливка"
+      },
+      {
+        "word": "CARROT",
+        "color": "#7816b5",
+        "translation": "морковь"
+      },
+      {
+        "word": "TOMATO",
+        "color": "#FF6347",
+        "translation": "помидор"
+      },
+      {
+        "word": "GARLIC",
+        "color": "#FFF8DC",
+        "translation": "чеснок"
+      },
+      {
+        "word": "CELERY",
+        "color": "#d49b8a",
+        "translation": "сельдерей"
+      },
+      {
+        "word": "ZUCCHINI",
+        "color": "#f39e1e",
+        "translation": "кабачок"
+      },
+      {
+        "word": "PASTA",
+        "color": "#F5DEB3",
+        "translation": "паста"
+      },
+      {
+        "word": "BEANS",
+        "color": "#88bbd7",
+        "translation": "фасоль"
+      }
+    ]
+  },
+  {
+    "recipe": "IT_Level_9_SpaghettiBolognese_10x10",
+    "ingredients": [
+      {
+        "word": "ONION",
+        "color": "#D0A9E1",
+        "translation": "лук"
+      },
+      {
+        "word": "SPAGHETTI",
+        "color": "#F7C663",
+        "translation": "спагетти"
+      },
+      {
+        "word": "BEEF",
+        "color": "#B1463B",
+        "translation": "говядина"
+      },
+      {
+        "word": "GARLIC",
+        "color": "#F4E2CD",
+        "translation": "чеснок"
+      },
+      {
+        "word": "BASIL",
+        "color": "#4CAF50",
+        "translation": "базилик"
+      },
+      {
+        "word": "TOMATO",
+        "color": "#E53935",
+        "translation": "помидор"
+      },
+      {
+        "word": "OLIVE",
+        "color": "#3B3B3B",
+        "translation": "оливка"
+      }
+    ]
+  },
+  {
+    "recipe": "IT_Level_10_Parmigiana_11x8",
+    "ingredients": [
+      {
+        "word": "BASIL",
+        "color": "#d7d59b",
+        "translation": "базилик"
+      },
+      {
+        "word": "TOMATOSAUCE",
+        "color": "#93ec16",
+        "translation": "томатный соус"
+      },
+      {
+        "word": "OIL",
+        "color": "#5e1256",
+        "translation": "масло"
+      },
+      {
+        "word": "EGGPLANT",
+        "color": "#546784",
+        "translation": "баклажан"
+      },
+      {
+        "word": "MOZZARELLA",
+        "color": "#b39bd3",
+        "translation": "моцарелла"
+      },
+      {
+        "word": "PARMESAN",
+        "color": "#9ecb6f",
+        "translation": "пармезан"
+      },
+      {
+        "word": "SALT",
+        "color": "#8c4f43",
+        "translation": "соль"
+      }
+    ]
+  }
+]
