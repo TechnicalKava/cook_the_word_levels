@@ -55,13 +55,13 @@
         "letter": "G",
         "wordIndex": 2,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "N",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ace6a8"
+        "color": "#d7873d"
       },
       {
         "letter": "Q",
@@ -105,25 +105,25 @@
         "letter": "A",
         "wordIndex": 2,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "E",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ace6a8"
+        "color": "#d7873d"
       },
       {
         "letter": "Y",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "B",
         "wordIndex": 0,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "L",
@@ -155,25 +155,25 @@
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "K",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ace6a8"
+        "color": "#d7873d"
       },
       {
         "letter": "R",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "U",
         "wordIndex": 0,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "I",
@@ -205,25 +205,25 @@
         "letter": "L",
         "wordIndex": 2,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "C",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ace6a8"
+        "color": "#d7873d"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "T",
         "wordIndex": 0,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "X",
@@ -255,25 +255,25 @@
         "letter": "I",
         "wordIndex": 2,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "I",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ace6a8"
+        "color": "#d7873d"
       },
       {
         "letter": "L",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "T",
         "wordIndex": 0,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "O",
@@ -305,25 +305,25 @@
         "letter": "C",
         "wordIndex": 2,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "H",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ace6a8"
+        "color": "#d7873d"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "E",
         "wordIndex": 0,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "H",
@@ -361,19 +361,19 @@
         "letter": "C",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ace6a8"
+        "color": "#d7873d"
       },
       {
         "letter": "C",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "R",
         "wordIndex": 0,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "X",
@@ -412,7 +412,7 @@
     {
       "word": "BUTTER",
       "group": 0,
-      "color": "#bf32b3"
+      "color": "#d69600"
     },
     {
       "word": "HOTSAUCE",
@@ -422,17 +422,17 @@
     {
       "word": "GARLIC",
       "group": 0,
-      "color": "#23a3dc"
+      "color": "#cc8226"
     },
     {
       "word": "CELERY",
       "group": 0,
-      "color": "#d49b8a"
+      "color": "#d39988"
     },
     {
       "word": "CHICKEN",
       "group": 0,
-      "color": "#ace6a8"
+      "color": "#d7873d"
     }
   ],
   "theme": "Buffalo Wings",

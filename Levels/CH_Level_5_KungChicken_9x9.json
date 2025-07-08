@@ -6,43 +6,43 @@
         "letter": "N",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f7c59f"
+        "color": "#d7873d"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f7c59f"
+        "color": "#d7873d"
       },
       {
         "letter": "K",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f7c59f"
+        "color": "#d7873d"
       },
       {
         "letter": "C",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f7c59f"
+        "color": "#d7873d"
       },
       {
         "letter": "I",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f7c59f"
+        "color": "#d7873d"
       },
       {
         "letter": "H",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f7c59f"
+        "color": "#d7873d"
       },
       {
         "letter": "C",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f7c59f"
+        "color": "#d7873d"
       },
       {
         "letter": "N",
@@ -68,7 +68,7 @@
         "letter": "Y",
         "wordIndex": 0,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "C",
@@ -124,7 +124,7 @@
         "letter": "R",
         "wordIndex": 0,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "U",
@@ -180,7 +180,7 @@
         "letter": "E",
         "wordIndex": 0,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "C",
@@ -236,7 +236,7 @@
         "letter": "L",
         "wordIndex": 0,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "U",
@@ -292,7 +292,7 @@
         "letter": "E",
         "wordIndex": 0,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "M",
@@ -348,7 +348,7 @@
         "letter": "C",
         "wordIndex": 0,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "B",
@@ -518,7 +518,7 @@
     {
       "word": "CELERY",
       "group": 0,
-      "color": "#d49b8a"
+      "color": "#d39988"
     },
     {
       "word": "HONEY",
@@ -533,7 +533,7 @@
     {
       "word": "CHICKEN",
       "group": 0,
-      "color": "#f7c59f"
+      "color": "#d7873d"
     },
     {
       "word": "CUCUMBER",

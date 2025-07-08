@@ -202,7 +202,7 @@
         "letter": "L",
         "wordIndex": 3,
         "group": 0,
-        "color": "#164d04"
+        "color": "#b99e00"
       }
     ],
     [
@@ -264,7 +264,7 @@
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#164d04"
+        "color": "#b99e00"
       },
       {
         "letter": "N",
@@ -278,19 +278,19 @@
         "letter": "G",
         "wordIndex": 1,
         "group": 0,
-        "color": "#54433e"
+        "color": "#b3900a"
       },
       {
         "letter": "G",
         "wordIndex": 1,
         "group": 0,
-        "color": "#54433e"
+        "color": "#b3900a"
       },
       {
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#54433e"
+        "color": "#b3900a"
       },
       {
         "letter": "M",
@@ -326,7 +326,7 @@
         "letter": "M",
         "wordIndex": 3,
         "group": 0,
-        "color": "#164d04"
+        "color": "#b99e00"
       },
       {
         "letter": "M",
@@ -388,7 +388,7 @@
         "letter": "O",
         "wordIndex": 3,
         "group": 0,
-        "color": "#164d04"
+        "color": "#b99e00"
       },
       {
         "letter": "C",
@@ -450,7 +450,7 @@
         "letter": "N",
         "wordIndex": 3,
         "group": 0,
-        "color": "#164d04"
+        "color": "#b99e00"
       },
       {
         "letter": "S",
@@ -494,7 +494,7 @@
     {
       "word": "EGG",
       "group": 0,
-      "color": "#54433e"
+      "color": "#b3900a"
     },
     {
       "word": "FLOUR",
@@ -504,7 +504,7 @@
     {
       "word": "LEMON",
       "group": 0,
-      "color": "#164d04"
+      "color": "#b99e00"
     },
     {
       "word": "VEAL",

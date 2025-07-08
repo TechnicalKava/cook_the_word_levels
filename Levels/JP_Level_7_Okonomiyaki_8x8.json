@@ -12,7 +12,7 @@
         "letter": "C",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "T",
@@ -68,7 +68,7 @@
         "letter": "H",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "W",
@@ -124,7 +124,7 @@
         "letter": "E",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "E",
@@ -180,7 +180,7 @@
         "letter": "E",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "B",
@@ -236,7 +236,7 @@
         "letter": "S",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "F",
@@ -292,7 +292,7 @@
         "letter": "E",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "E",
@@ -312,19 +312,19 @@
         "letter": "E",
         "wordIndex": 4,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "G",
         "wordIndex": 4,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "G",
         "wordIndex": 4,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "V",
@@ -415,7 +415,7 @@
     {
       "word": "CHEESE",
       "group": 0,
-      "color": "#FFE38C"
+      "color": "#b99b00"
     },
     {
       "word": "MAYO",
@@ -435,7 +435,7 @@
     {
       "word": "EGG",
       "group": 0,
-      "color": "#FFE38C"
+      "color": "#b3900a"
     },
     {
       "word": "CABBAGE",

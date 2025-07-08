@@ -398,37 +398,37 @@
         "letter": "P",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "E",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "P",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "P",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "E",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "R",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "U",
@@ -537,7 +537,7 @@
     {
       "word": "PEPPER",
       "group": 0,
-      "color": "#d46a6a"
+      "color": "#7e7e7e"
     }
   ],
   "theme": "SweetPork",

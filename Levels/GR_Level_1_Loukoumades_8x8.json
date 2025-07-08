@@ -385,19 +385,19 @@
         "letter": "L",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ffdab9"
+        "color": "#841978"
       },
       {
         "letter": "I",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ffdab9"
+        "color": "#841978"
       },
       {
         "letter": "O",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ffdab9"
+        "color": "#841978"
       }
     ]
   ],
@@ -432,7 +432,7 @@
     {
       "word": "OIL",
       "group": 0,
-      "color": "#ffdab9"
+      "color": "#841978"
     }
   ],
   "theme": "Loukoumades",

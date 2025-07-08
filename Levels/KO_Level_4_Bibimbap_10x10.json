@@ -48,7 +48,7 @@
         "letter": "T",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "X",
@@ -104,7 +104,7 @@
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "C",
@@ -160,31 +160,31 @@
         "letter": "R",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "B",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "E",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "E",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "F",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       }
     ],
     [
@@ -216,7 +216,7 @@
         "letter": "R",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "L",
@@ -272,7 +272,7 @@
         "letter": "A",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "E",
@@ -290,19 +290,19 @@
         "letter": "E",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "G",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "G",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "Y",
@@ -328,7 +328,7 @@
         "letter": "C",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "B",
@@ -634,17 +634,17 @@
     {
       "word": "EGG",
       "group": 0,
-      "color": "#FFE38C"
+      "color": "#b3900a"
     },
     {
       "word": "CARROT",
       "group": 0,
-      "color": "#FFA07A"
+      "color": "#a336e7"
     },
     {
       "word": "BEEF",
       "group": 0,
-      "color": "#8B4513"
+      "color": "#c3611b"
     },
     {
       "word": "SPINACH",

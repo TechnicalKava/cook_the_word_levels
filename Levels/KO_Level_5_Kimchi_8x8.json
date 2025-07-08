@@ -12,7 +12,7 @@
         "letter": "S",
         "wordIndex": 3,
         "group": 0,
-        "color": "#e0e0e0"
+        "color": "#8d9aa4"
       },
       {
         "letter": "E",
@@ -62,7 +62,7 @@
         "letter": "A",
         "wordIndex": 3,
         "group": 0,
-        "color": "#e0e0e0"
+        "color": "#8d9aa4"
       },
       {
         "letter": "Y",
@@ -86,7 +86,7 @@
         "letter": "G",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "C",
@@ -112,7 +112,7 @@
         "letter": "L",
         "wordIndex": 3,
         "group": 0,
-        "color": "#e0e0e0"
+        "color": "#8d9aa4"
       },
       {
         "letter": "M",
@@ -136,7 +136,7 @@
         "letter": "A",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "X",
@@ -162,7 +162,7 @@
         "letter": "T",
         "wordIndex": 3,
         "group": 0,
-        "color": "#e0e0e0"
+        "color": "#8d9aa4"
       },
       {
         "letter": "N",
@@ -186,7 +186,7 @@
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "H",
@@ -236,7 +236,7 @@
         "letter": "L",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "Z",
@@ -286,7 +286,7 @@
         "letter": "I",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "I",
@@ -336,7 +336,7 @@
         "letter": "C",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "M",
@@ -422,12 +422,12 @@
     {
       "word": "GARLIC",
       "group": 0,
-      "color": "#FFF8DC"
+      "color": "#cc8226"
     },
     {
       "word": "SALT",
       "group": 0,
-      "color": "#e0e0e0"
+      "color": "#8d9aa4"
     }
   ],
   "theme": "Kimchi",

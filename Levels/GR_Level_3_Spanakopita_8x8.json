@@ -35,7 +35,7 @@
         "letter": "E",
         "wordIndex": 0,
         "group": 0,
-        "color": "#fffacd"
+        "color": "#b3900a"
       },
       {
         "letter": "F",
@@ -85,7 +85,7 @@
         "letter": "G",
         "wordIndex": 0,
         "group": 0,
-        "color": "#fffacd"
+        "color": "#b3900a"
       },
       {
         "letter": "D",
@@ -135,7 +135,7 @@
         "letter": "G",
         "wordIndex": 0,
         "group": 0,
-        "color": "#fffacd"
+        "color": "#b3900a"
       },
       {
         "letter": "V",
@@ -412,7 +412,7 @@
     {
       "word": "EGG",
       "group": 0,
-      "color": "#fffacd"
+      "color": "#b3900a"
     },
     {
       "word": "SPINACH",

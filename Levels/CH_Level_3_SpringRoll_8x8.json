@@ -118,7 +118,7 @@
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "V",
@@ -130,7 +130,7 @@
         "letter": "L",
         "wordIndex": 0,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "V",
@@ -156,7 +156,7 @@
         "letter": "H",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f4e2d8"
+        "color": "#e09918"
       },
       {
         "letter": "Q",
@@ -174,7 +174,7 @@
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "F",
@@ -186,7 +186,7 @@
         "letter": "I",
         "wordIndex": 0,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "H",
@@ -212,7 +212,7 @@
         "letter": "G",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f4e2d8"
+        "color": "#e09918"
       },
       {
         "letter": "G",
@@ -230,7 +230,7 @@
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "Q",
@@ -242,7 +242,7 @@
         "letter": "O",
         "wordIndex": 0,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "P",
@@ -268,7 +268,7 @@
         "letter": "U",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f4e2d8"
+        "color": "#e09918"
       },
       {
         "letter": "F",
@@ -286,7 +286,7 @@
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "P",
@@ -324,7 +324,7 @@
         "letter": "O",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f4e2d8"
+        "color": "#e09918"
       },
       {
         "letter": "E",
@@ -342,7 +342,7 @@
         "letter": "A",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "V",
@@ -380,7 +380,7 @@
         "letter": "D",
         "wordIndex": 3,
         "group": 0,
-        "color": "#f4e2d8"
+        "color": "#e09918"
       },
       {
         "letter": "N",
@@ -398,7 +398,7 @@
         "letter": "C",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       }
     ]
   ],
@@ -412,7 +412,7 @@
     {
       "word": "OIL",
       "group": 0,
-      "color": "#ffd700"
+      "color": "#841978"
     },
     {
       "word": "CABBAGE",
@@ -422,12 +422,12 @@
     {
       "word": "CARROT",
       "group": 0,
-      "color": "#FFA07A"
+      "color": "#a336e7"
     },
     {
       "word": "DOUGH",
       "group": 0,
-      "color": "#f4e2d8"
+      "color": "#e09918"
     }
   ],
   "theme": "SpringRoll",

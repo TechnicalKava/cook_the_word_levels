@@ -6,7 +6,7 @@
         "letter": "C",
         "wordIndex": 0,
         "group": 0,
-        "color": "#7816b5"
+        "color": "#a336e7"
       },
       {
         "letter": "J",
@@ -56,7 +56,7 @@
         "letter": "A",
         "wordIndex": 0,
         "group": 0,
-        "color": "#7816b5"
+        "color": "#a336e7"
       },
       {
         "letter": "C",
@@ -86,13 +86,13 @@
         "letter": "C",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "F",
@@ -106,7 +106,7 @@
         "letter": "R",
         "wordIndex": 0,
         "group": 0,
-        "color": "#7816b5"
+        "color": "#a336e7"
       },
       {
         "letter": "P",
@@ -130,7 +130,7 @@
         "letter": "E",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "N",
@@ -142,7 +142,7 @@
         "letter": "T",
         "wordIndex": 1,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "U",
@@ -156,7 +156,7 @@
         "letter": "R",
         "wordIndex": 0,
         "group": 0,
-        "color": "#7816b5"
+        "color": "#a336e7"
       },
       {
         "letter": "K",
@@ -168,13 +168,13 @@
         "letter": "B",
         "wordIndex": 2,
         "group": 0,
-        "color": "#88bbd7"
+        "color": "#519bc4"
       },
       {
         "letter": "L",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "X",
@@ -192,7 +192,7 @@
         "letter": "A",
         "wordIndex": 1,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "Y",
@@ -206,7 +206,7 @@
         "letter": "O",
         "wordIndex": 0,
         "group": 0,
-        "color": "#7816b5"
+        "color": "#a336e7"
       },
       {
         "letter": "X",
@@ -218,13 +218,13 @@
         "letter": "E",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "E",
         "wordIndex": 2,
         "group": 0,
-        "color": "#88bbd7"
+        "color": "#519bc4"
       },
       {
         "letter": "V",
@@ -242,7 +242,7 @@
         "letter": "T",
         "wordIndex": 1,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "Q",
@@ -256,13 +256,13 @@
         "letter": "T",
         "wordIndex": 0,
         "group": 0,
-        "color": "#7816b5"
+        "color": "#a336e7"
       },
       {
         "letter": "R",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "O",
@@ -280,7 +280,7 @@
         "letter": "A",
         "wordIndex": 2,
         "group": 0,
-        "color": "#88bbd7"
+        "color": "#519bc4"
       },
       {
         "letter": "C",
@@ -292,7 +292,7 @@
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "S",
@@ -306,7 +306,7 @@
         "letter": "Y",
         "wordIndex": 4,
         "group": 0,
-        "color": "#d49b8a"
+        "color": "#d39988"
       },
       {
         "letter": "B",
@@ -336,13 +336,13 @@
         "letter": "N",
         "wordIndex": 2,
         "group": 0,
-        "color": "#88bbd7"
+        "color": "#519bc4"
       },
       {
         "letter": "P",
         "wordIndex": 1,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "D",
@@ -392,7 +392,7 @@
         "letter": "S",
         "wordIndex": 2,
         "group": 0,
-        "color": "#88bbd7"
+        "color": "#519bc4"
       },
       {
         "letter": "H",
@@ -413,17 +413,17 @@
     {
       "word": "CARROT",
       "group": 0,
-      "color": "#7816b5"
+      "color": "#a336e7"
     },
     {
       "word": "POTATO",
       "group": 0,
-      "color": "#8ac6f2"
+      "color": "#cc9427"
     },
     {
       "word": "BEANS",
       "group": 0,
-      "color": "#88bbd7"
+      "color": "#519bc4"
     },
     {
       "word": "MEAT",
@@ -433,7 +433,7 @@
     {
       "word": "CELERY",
       "group": 0,
-      "color": "#d49b8a"
+      "color": "#d39988"
     }
   ],
   "theme": "Eintopf",

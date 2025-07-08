@@ -80,7 +80,7 @@
         "letter": "B",
         "wordIndex": 3,
         "group": 0,
-        "color": "#aa3382"
+        "color": "#c3611b"
       },
       {
         "letter": "H",
@@ -136,13 +136,13 @@
         "letter": "G",
         "wordIndex": 1,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#aa3382"
+        "color": "#c3611b"
       },
       {
         "letter": "I",
@@ -198,13 +198,13 @@
         "letter": "A",
         "wordIndex": 1,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#aa3382"
+        "color": "#c3611b"
       },
       {
         "letter": "L",
@@ -260,13 +260,13 @@
         "letter": "R",
         "wordIndex": 1,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "F",
         "wordIndex": 3,
         "group": 0,
-        "color": "#aa3382"
+        "color": "#c3611b"
       },
       {
         "letter": "I",
@@ -322,7 +322,7 @@
         "letter": "L",
         "wordIndex": 1,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "C",
@@ -384,7 +384,7 @@
         "letter": "I",
         "wordIndex": 1,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "V",
@@ -446,7 +446,7 @@
         "letter": "C",
         "wordIndex": 1,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       }
     ],
     [
@@ -523,7 +523,7 @@
     {
       "word": "GARLIC",
       "group": 0,
-      "color": "#23a3dc"
+      "color": "#cc8226"
     },
     {
       "word": "TOFU",
@@ -533,7 +533,7 @@
     {
       "word": "BEEF",
       "group": 0,
-      "color": "#aa3382"
+      "color": "#c3611b"
     },
     {
       "word": "CHILI",

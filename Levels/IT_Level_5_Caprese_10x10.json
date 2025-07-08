@@ -42,7 +42,7 @@
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FF6347"
+        "color": "#ed7971"
       },
       {
         "letter": "P",
@@ -68,7 +68,7 @@
         "letter": "B",
         "wordIndex": 3,
         "group": 0,
-        "color": "#228B22"
+        "color": "#46a55f"
       },
       {
         "letter": "X",
@@ -98,7 +98,7 @@
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FF6347"
+        "color": "#ed7971"
       },
       {
         "letter": "O",
@@ -136,7 +136,7 @@
         "letter": "A",
         "wordIndex": 3,
         "group": 0,
-        "color": "#228B22"
+        "color": "#46a55f"
       },
       {
         "letter": "J",
@@ -154,7 +154,7 @@
         "letter": "A",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FF6347"
+        "color": "#ed7971"
       },
       {
         "letter": "I",
@@ -204,13 +204,13 @@
         "letter": "S",
         "wordIndex": 3,
         "group": 0,
-        "color": "#228B22"
+        "color": "#46a55f"
       },
       {
         "letter": "M",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FF6347"
+        "color": "#ed7971"
       },
       {
         "letter": "Z",
@@ -266,13 +266,13 @@
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FF6347"
+        "color": "#ed7971"
       },
       {
         "letter": "I",
         "wordIndex": 3,
         "group": 0,
-        "color": "#228B22"
+        "color": "#46a55f"
       },
       {
         "letter": "Z",
@@ -322,7 +322,7 @@
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FF6347"
+        "color": "#ed7971"
       },
       {
         "letter": "S",
@@ -340,7 +340,7 @@
         "letter": "L",
         "wordIndex": 3,
         "group": 0,
-        "color": "#228B22"
+        "color": "#46a55f"
       },
       {
         "letter": "V",
@@ -396,31 +396,31 @@
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#808000"
+        "color": "#841978"
       },
       {
         "letter": "L",
         "wordIndex": 1,
         "group": 0,
-        "color": "#808000"
+        "color": "#841978"
       },
       {
         "letter": "I",
         "wordIndex": 1,
         "group": 0,
-        "color": "#808000"
+        "color": "#841978"
       },
       {
         "letter": "V",
         "wordIndex": 1,
         "group": 0,
-        "color": "#808000"
+        "color": "#841978"
       },
       {
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#808000"
+        "color": "#841978"
       },
       {
         "letter": "L",
@@ -502,61 +502,61 @@
         "letter": "M",
         "wordIndex": 0,
         "group": 0,
-        "color": "#b39bd3"
+        "color": "#b59dd4"
       },
       {
         "letter": "O",
         "wordIndex": 0,
         "group": 0,
-        "color": "#b39bd3"
+        "color": "#b59dd4"
       },
       {
         "letter": "Z",
         "wordIndex": 0,
         "group": 0,
-        "color": "#b39bd3"
+        "color": "#b59dd4"
       },
       {
         "letter": "Z",
         "wordIndex": 0,
         "group": 0,
-        "color": "#b39bd3"
+        "color": "#b59dd4"
       },
       {
         "letter": "A",
         "wordIndex": 0,
         "group": 0,
-        "color": "#b39bd3"
+        "color": "#b59dd4"
       },
       {
         "letter": "R",
         "wordIndex": 0,
         "group": 0,
-        "color": "#b39bd3"
+        "color": "#b59dd4"
       },
       {
         "letter": "E",
         "wordIndex": 0,
         "group": 0,
-        "color": "#b39bd3"
+        "color": "#b59dd4"
       },
       {
         "letter": "L",
         "wordIndex": 0,
         "group": 0,
-        "color": "#b39bd3"
+        "color": "#b59dd4"
       },
       {
         "letter": "L",
         "wordIndex": 0,
         "group": 0,
-        "color": "#b39bd3"
+        "color": "#b59dd4"
       },
       {
         "letter": "A",
         "wordIndex": 0,
         "group": 0,
-        "color": "#b39bd3"
+        "color": "#b59dd4"
       }
     ],
     [
@@ -632,22 +632,22 @@
     {
       "word": "MOZZARELLA",
       "group": 0,
-      "color": "#b39bd3"
+      "color": "#b59dd4"
     },
     {
       "word": "OLIVE",
       "group": 0,
-      "color": "#808000"
+      "color": "#841978"
     },
     {
       "word": "TOMATO",
       "group": 0,
-      "color": "#FF6347"
+      "color": "#ed7971"
     },
     {
       "word": "BASIL",
       "group": 0,
-      "color": "#228B22"
+      "color": "#46a55f"
     }
   ],
   "theme": "Caprese",

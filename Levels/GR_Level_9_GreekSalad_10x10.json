@@ -23,7 +23,7 @@
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#ff6347"
+        "color": "#ed7971"
       },
       {
         "letter": "N",
@@ -91,7 +91,7 @@
         "letter": "T",
         "wordIndex": 1,
         "group": 0,
-        "color": "#ff6347"
+        "color": "#ed7971"
       },
       {
         "letter": "L",
@@ -159,7 +159,7 @@
         "letter": "A",
         "wordIndex": 1,
         "group": 0,
-        "color": "#ff6347"
+        "color": "#ed7971"
       },
       {
         "letter": "E",
@@ -227,7 +227,7 @@
         "letter": "M",
         "wordIndex": 1,
         "group": 0,
-        "color": "#ff6347"
+        "color": "#ed7971"
       },
       {
         "letter": "F",
@@ -295,7 +295,7 @@
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#ff6347"
+        "color": "#ed7971"
       },
       {
         "letter": "K",
@@ -363,7 +363,7 @@
         "letter": "T",
         "wordIndex": 1,
         "group": 0,
-        "color": "#ff6347"
+        "color": "#ed7971"
       },
       {
         "letter": "G",
@@ -507,31 +507,31 @@
         "letter": "O",
         "wordIndex": 3,
         "group": 0,
-        "color": "#3b3a30"
+        "color": "#841978"
       },
       {
         "letter": "L",
         "wordIndex": 3,
         "group": 0,
-        "color": "#3b3a30"
+        "color": "#841978"
       },
       {
         "letter": "I",
         "wordIndex": 3,
         "group": 0,
-        "color": "#3b3a30"
+        "color": "#841978"
       },
       {
         "letter": "V",
         "wordIndex": 3,
         "group": 0,
-        "color": "#3b3a30"
+        "color": "#841978"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#3b3a30"
+        "color": "#841978"
       },
       {
         "letter": "O",
@@ -639,7 +639,7 @@
     {
       "word": "TOMATO",
       "group": 0,
-      "color": "#ff6347"
+      "color": "#ed7971"
     },
     {
       "word": "OREGANO",
@@ -649,7 +649,7 @@
     {
       "word": "OLIVE",
       "group": 0,
-      "color": "#3b3a30"
+      "color": "#841978"
     },
     {
       "word": "OLIVEOIL",

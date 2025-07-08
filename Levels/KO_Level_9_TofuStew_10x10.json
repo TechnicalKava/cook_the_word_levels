@@ -60,7 +60,7 @@
         "letter": "E",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       }
     ],
     [
@@ -122,7 +122,7 @@
         "letter": "G",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       }
     ],
     [
@@ -160,7 +160,7 @@
         "letter": "O",
         "wordIndex": 6,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "F",
@@ -184,7 +184,7 @@
         "letter": "G",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       }
     ],
     [
@@ -216,7 +216,7 @@
         "letter": "I",
         "wordIndex": 6,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "L",
@@ -272,7 +272,7 @@
         "letter": "L",
         "wordIndex": 6,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "P",
@@ -502,49 +502,49 @@
         "letter": "I",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       },
       {
         "letter": "N",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       },
       {
         "letter": "I",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       },
       {
         "letter": "H",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       },
       {
         "letter": "C",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       },
       {
         "letter": "C",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       },
       {
         "letter": "U",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       },
       {
         "letter": "Z",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       },
       {
         "letter": "V",
@@ -656,17 +656,17 @@
     {
       "word": "ZUCCHINI",
       "group": 0,
-      "color": "#f39e1e"
+      "color": "#e38d0d"
     },
     {
       "word": "EGG",
       "group": 0,
-      "color": "#FFE38C"
+      "color": "#b3900a"
     },
     {
       "word": "OIL",
       "group": 0,
-      "color": "#ffd700"
+      "color": "#841978"
     },
     {
       "word": "CHILI",

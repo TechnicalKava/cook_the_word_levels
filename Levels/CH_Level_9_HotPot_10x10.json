@@ -98,7 +98,7 @@
         "letter": "B",
         "wordIndex": 2,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "V",
@@ -166,7 +166,7 @@
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "I",
@@ -234,7 +234,7 @@
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "E",
@@ -302,7 +302,7 @@
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "M",
@@ -370,7 +370,7 @@
         "letter": "H",
         "wordIndex": 2,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       }
     ],
     [
@@ -532,25 +532,25 @@
         "letter": "B",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "F",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "A",
@@ -646,12 +646,12 @@
     {
       "word": "BROTH",
       "group": 0,
-      "color": "#5b6277"
+      "color": "#858ca1"
     },
     {
       "word": "BEEF",
       "group": 0,
-      "color": "#8B4513"
+      "color": "#c3611b"
     },
     {
       "word": "TOFU",

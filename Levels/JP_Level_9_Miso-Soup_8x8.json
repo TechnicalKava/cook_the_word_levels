@@ -124,7 +124,7 @@
         "letter": "B",
         "wordIndex": 2,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "Y",
@@ -180,7 +180,7 @@
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "G",
@@ -236,7 +236,7 @@
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "T",
@@ -292,7 +292,7 @@
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "G",
@@ -348,7 +348,7 @@
         "letter": "H",
         "wordIndex": 2,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       }
     ],
     [
@@ -423,7 +423,7 @@
     {
       "word": "BROTH",
       "group": 0,
-      "color": "#5b6277"
+      "color": "#858ca1"
     },
     {
       "word": "TOFU",

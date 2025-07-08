@@ -48,7 +48,7 @@
         "letter": "Z",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       }
     ],
     [
@@ -92,13 +92,13 @@
         "letter": "C",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "U",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       }
     ],
     [
@@ -142,13 +142,13 @@
         "letter": "A",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "C",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       }
     ],
     [
@@ -180,7 +180,7 @@
         "letter": "O",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "I",
@@ -192,13 +192,13 @@
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "C",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       }
     ],
     [
@@ -224,7 +224,7 @@
         "letter": "I",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "N",
@@ -242,13 +242,13 @@
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "H",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       }
     ],
     [
@@ -268,7 +268,7 @@
         "letter": "L",
         "wordIndex": 4,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "U",
@@ -292,13 +292,13 @@
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "I",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       }
     ],
     [
@@ -342,13 +342,13 @@
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "N",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       }
     ],
     [
@@ -398,7 +398,7 @@
         "letter": "I",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f39e1e"
+        "color": "#e38d0d"
       }
     ]
   ],
@@ -424,7 +424,7 @@
     {
       "word": "CARROT",
       "group": 0,
-      "color": "#FFA07A"
+      "color": "#a336e7"
     },
     {
       "word": "FLOUR",
@@ -434,12 +434,12 @@
     {
       "word": "OIL",
       "group": 0,
-      "color": "#ffd700"
+      "color": "#841978"
     },
     {
       "word": "ZUCCHINI",
       "group": 0,
-      "color": "#f39e1e"
+      "color": "#e38d0d"
     }
   ],
   "theme": "Tempura",

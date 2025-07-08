@@ -166,7 +166,7 @@
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#D0A9E1"
+        "color": "#d1921c"
       }
     ],
     [
@@ -222,7 +222,7 @@
         "letter": "N",
         "wordIndex": 2,
         "group": 0,
-        "color": "#D0A9E1"
+        "color": "#d1921c"
       }
     ],
     [
@@ -278,7 +278,7 @@
         "letter": "I",
         "wordIndex": 2,
         "group": 0,
-        "color": "#D0A9E1"
+        "color": "#d1921c"
       }
     ],
     [
@@ -334,7 +334,7 @@
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#D0A9E1"
+        "color": "#d1921c"
       }
     ],
     [
@@ -390,7 +390,7 @@
         "letter": "N",
         "wordIndex": 2,
         "group": 0,
-        "color": "#D0A9E1"
+        "color": "#d1921c"
       }
     ],
     [
@@ -528,7 +528,7 @@
     {
       "word": "ONION",
       "group": 0,
-      "color": "#D0A9E1"
+      "color": "#d1921c"
     },
     {
       "word": "BUN",

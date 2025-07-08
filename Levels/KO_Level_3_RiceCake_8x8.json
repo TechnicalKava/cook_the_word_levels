@@ -112,7 +112,7 @@
         "letter": "E",
         "wordIndex": 2,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "L",
@@ -162,7 +162,7 @@
         "letter": "C",
         "wordIndex": 2,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "X",
@@ -212,7 +212,7 @@
         "letter": "I",
         "wordIndex": 2,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "W",
@@ -262,7 +262,7 @@
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "Y",
@@ -422,7 +422,7 @@
     {
       "word": "RICE",
       "group": 0,
-      "color": "#ccbaf9"
+      "color": "#c9b6f9"
     },
     {
       "word": "SUGAR",

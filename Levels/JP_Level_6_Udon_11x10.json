@@ -86,7 +86,7 @@
         "letter": "H",
         "wordIndex": 6,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "I",
@@ -154,7 +154,7 @@
         "letter": "T",
         "wordIndex": 6,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "F",
@@ -222,7 +222,7 @@
         "letter": "O",
         "wordIndex": 6,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "M",
@@ -290,7 +290,7 @@
         "letter": "R",
         "wordIndex": 6,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "L",
@@ -358,7 +358,7 @@
         "letter": "B",
         "wordIndex": 6,
         "group": 0,
-        "color": "#5b6277"
+        "color": "#858ca1"
       },
       {
         "letter": "Y",
@@ -726,7 +726,7 @@
     {
       "word": "BROTH",
       "group": 0,
-      "color": "#5b6277"
+      "color": "#858ca1"
     },
     {
       "word": "SEAWEED",

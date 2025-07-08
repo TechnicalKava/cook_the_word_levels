@@ -6,7 +6,7 @@
         "letter": "O",
         "wordIndex": 5,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "B",
@@ -56,7 +56,7 @@
         "letter": "I",
         "wordIndex": 5,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "X",
@@ -106,7 +106,7 @@
         "letter": "L",
         "wordIndex": 5,
         "group": 0,
-        "color": "#ffd700"
+        "color": "#841978"
       },
       {
         "letter": "I",
@@ -362,19 +362,19 @@
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "G",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "G",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "A",
@@ -419,7 +419,7 @@
     {
       "word": "EGG",
       "group": 0,
-      "color": "#FFE38C"
+      "color": "#b3900a"
     },
     {
       "word": "OCTOPUS",
@@ -439,7 +439,7 @@
     {
       "word": "OIL",
       "group": 0,
-      "color": "#ffd700"
+      "color": "#841978"
     }
   ],
   "theme": "SeafoodPancake",

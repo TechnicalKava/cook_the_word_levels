@@ -30,25 +30,25 @@
         "letter": "M",
         "wordIndex": 1,
         "group": 0,
-        "color": "#F4F1EC"
+        "color": "#aa936c"
       },
       {
         "letter": "I",
         "wordIndex": 1,
         "group": 0,
-        "color": "#F4F1EC"
+        "color": "#aa936c"
       },
       {
         "letter": "L",
         "wordIndex": 1,
         "group": 0,
-        "color": "#F4F1EC"
+        "color": "#aa936c"
       },
       {
         "letter": "K",
         "wordIndex": 1,
         "group": 0,
-        "color": "#F4F1EC"
+        "color": "#aa936c"
       }
     ],
     [
@@ -206,7 +206,7 @@
         "letter": "G",
         "wordIndex": 3,
         "group": 0,
-        "color": "#F6D75D"
+        "color": "#b3900a"
       },
       {
         "letter": "Z",
@@ -262,7 +262,7 @@
         "letter": "G",
         "wordIndex": 3,
         "group": 0,
-        "color": "#F6D75D"
+        "color": "#b3900a"
       },
       {
         "letter": "X",
@@ -318,7 +318,7 @@
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#F6D75D"
+        "color": "#b3900a"
       },
       {
         "letter": "L",
@@ -368,37 +368,37 @@
         "letter": "B",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFD166"
+        "color": "#d69600"
       },
       {
         "letter": "U",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFD166"
+        "color": "#d69600"
       },
       {
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFD166"
+        "color": "#d69600"
       },
       {
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFD166"
+        "color": "#d69600"
       },
       {
         "letter": "E",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFD166"
+        "color": "#d69600"
       },
       {
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFD166"
+        "color": "#d69600"
       }
     ]
   ],
@@ -419,17 +419,17 @@
     {
       "word": "MILK",
       "group": 0,
-      "color": "#F4F1EC"
+      "color": "#aa936c"
     },
     {
       "word": "BUTTER",
       "group": 0,
-      "color": "#FFD166"
+      "color": "#d69600"
     },
     {
       "word": "EGG",
       "group": 0,
-      "color": "#F6D75D"
+      "color": "#b3900a"
     },
     {
       "word": "FLOUR",

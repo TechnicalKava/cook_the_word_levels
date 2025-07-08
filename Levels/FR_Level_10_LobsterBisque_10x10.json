@@ -6,7 +6,7 @@
         "letter": "E",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FF4500"
+        "color": "#df745c"
       },
       {
         "letter": "Q",
@@ -68,7 +68,7 @@
         "letter": "T",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FF4500"
+        "color": "#df745c"
       },
       {
         "letter": "X",
@@ -130,7 +130,7 @@
         "letter": "S",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FF4500"
+        "color": "#df745c"
       },
       {
         "letter": "A",
@@ -192,7 +192,7 @@
         "letter": "A",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FF4500"
+        "color": "#df745c"
       },
       {
         "letter": "X",
@@ -204,7 +204,7 @@
         "letter": "G",
         "wordIndex": 6,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "F",
@@ -254,7 +254,7 @@
         "letter": "P",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FF4500"
+        "color": "#df745c"
       },
       {
         "letter": "O",
@@ -272,7 +272,7 @@
         "letter": "A",
         "wordIndex": 6,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "B",
@@ -316,7 +316,7 @@
         "letter": "A",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FF4500"
+        "color": "#df745c"
       },
       {
         "letter": "B",
@@ -340,7 +340,7 @@
         "letter": "R",
         "wordIndex": 6,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "O",
@@ -378,7 +378,7 @@
         "letter": "M",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FF4500"
+        "color": "#df745c"
       },
       {
         "letter": "M",
@@ -408,7 +408,7 @@
         "letter": "L",
         "wordIndex": 6,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "L",
@@ -440,7 +440,7 @@
         "letter": "O",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FF4500"
+        "color": "#df745c"
       },
       {
         "letter": "M",
@@ -476,7 +476,7 @@
         "letter": "I",
         "wordIndex": 6,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "C",
@@ -502,49 +502,49 @@
         "letter": "T",
         "wordIndex": 5,
         "group": 0,
-        "color": "#FF4500"
+        "color": "#df745c"
       },
       {
         "letter": "B",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE4B5"
+        "color": "#d69600"
       },
       {
         "letter": "U",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE4B5"
+        "color": "#d69600"
       },
       {
         "letter": "T",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE4B5"
+        "color": "#d69600"
       },
       {
         "letter": "T",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE4B5"
+        "color": "#d69600"
       },
       {
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE4B5"
+        "color": "#d69600"
       },
       {
         "letter": "R",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE4B5"
+        "color": "#d69600"
       },
       {
         "letter": "C",
         "wordIndex": 6,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "S",
@@ -640,7 +640,7 @@
     {
       "word": "BUTTER",
       "group": 0,
-      "color": "#FFE4B5"
+      "color": "#d69600"
     },
     {
       "word": "LOBSTER",
@@ -660,12 +660,12 @@
     {
       "word": "TOMAPASTE",
       "group": 0,
-      "color": "#FF4500"
+      "color": "#df745c"
     },
     {
       "word": "GARLIC",
       "group": 0,
-      "color": "#FFF8DC"
+      "color": "#cc8226"
     }
   ],
   "theme": "Lobster Bisque",

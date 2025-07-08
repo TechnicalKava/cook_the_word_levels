@@ -5,37 +5,37 @@
         "letter": "G",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "A",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "R",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "L",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "I",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "C",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "E",
@@ -147,7 +147,7 @@
         "letter": "P",
         "wordIndex": 1,
         "group": 0,
-        "color": "#20c8c0"
+        "color": "#7e7e7e"
       }
     ],
     [
@@ -197,7 +197,7 @@
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#20c8c0"
+        "color": "#7e7e7e"
       }
     ],
     [
@@ -247,7 +247,7 @@
         "letter": "P",
         "wordIndex": 1,
         "group": 0,
-        "color": "#20c8c0"
+        "color": "#7e7e7e"
       }
     ],
     [
@@ -261,25 +261,25 @@
         "letter": "S",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "A",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "L",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "R",
@@ -297,7 +297,7 @@
         "letter": "P",
         "wordIndex": 1,
         "group": 0,
-        "color": "#20c8c0"
+        "color": "#7e7e7e"
       }
     ],
     [
@@ -347,7 +347,7 @@
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#20c8c0"
+        "color": "#7e7e7e"
       }
     ],
     [
@@ -397,7 +397,7 @@
         "letter": "R",
         "wordIndex": 1,
         "group": 0,
-        "color": "#20c8c0"
+        "color": "#7e7e7e"
       }
     ]
   ],
@@ -417,12 +417,12 @@
     {
       "word": "PEPPER",
       "group": 0,
-      "color": "#20c8c0"
+      "color": "#7e7e7e"
     },
     {
       "word": "SALT",
       "group": 0,
-      "color": "#8c4f43"
+      "color": "#8d9aa4"
     },
     {
       "word": "BBQSAUCE",
@@ -432,7 +432,7 @@
     {
       "word": "GARLIC",
       "group": 0,
-      "color": "#23a3dc"
+      "color": "#cc8226"
     }
   ],
   "theme": "BBQ Ribs",

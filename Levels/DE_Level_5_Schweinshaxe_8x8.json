@@ -136,7 +136,7 @@
         "letter": "C",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "Z",
@@ -180,7 +180,7 @@
         "letter": "I",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "G",
@@ -206,7 +206,7 @@
         "letter": "T",
         "wordIndex": 0,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "U",
@@ -224,7 +224,7 @@
         "letter": "L",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "Z",
@@ -262,31 +262,31 @@
         "letter": "L",
         "wordIndex": 0,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "R",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#20c8c0"
+        "color": "#7e7e7e"
       },
       {
         "letter": "P",
         "wordIndex": 1,
         "group": 0,
-        "color": "#20c8c0"
+        "color": "#7e7e7e"
       },
       {
         "letter": "P",
         "wordIndex": 1,
         "group": 0,
-        "color": "#20c8c0"
+        "color": "#7e7e7e"
       },
       {
         "letter": "E",
@@ -298,7 +298,7 @@
         "letter": "P",
         "wordIndex": 1,
         "group": 0,
-        "color": "#20c8c0"
+        "color": "#7e7e7e"
       }
     ],
     [
@@ -312,13 +312,13 @@
         "letter": "A",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "A",
         "wordIndex": 0,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "I",
@@ -356,7 +356,7 @@
         "letter": "G",
         "wordIndex": 4,
         "group": 0,
-        "color": "#23a3dc"
+        "color": "#cc8226"
       },
       {
         "letter": "V",
@@ -374,7 +374,7 @@
         "letter": "S",
         "wordIndex": 0,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "R",
@@ -413,12 +413,12 @@
     {
       "word": "SALT",
       "group": 0,
-      "color": "#8c4f43"
+      "color": "#8d9aa4"
     },
     {
       "word": "PEPPER",
       "group": 0,
-      "color": "#20c8c0"
+      "color": "#7e7e7e"
     },
     {
       "word": "PORK",
@@ -433,7 +433,7 @@
     {
       "word": "GARLIC",
       "group": 0,
-      "color": "#23a3dc"
+      "color": "#cc8226"
     }
   ],
   "theme": "Schweinshaxe",

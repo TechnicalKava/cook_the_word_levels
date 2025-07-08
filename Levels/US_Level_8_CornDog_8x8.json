@@ -135,7 +135,7 @@
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#54433e"
+        "color": "#b3900a"
       },
       {
         "letter": "H",
@@ -191,7 +191,7 @@
         "letter": "G",
         "wordIndex": 1,
         "group": 0,
-        "color": "#54433e"
+        "color": "#b3900a"
       },
       {
         "letter": "D",
@@ -205,19 +205,19 @@
         "letter": "L",
         "wordIndex": 3,
         "group": 0,
-        "color": "#a2eba9"
+        "color": "#841978"
       },
       {
         "letter": "I",
         "wordIndex": 3,
         "group": 0,
-        "color": "#a2eba9"
+        "color": "#841978"
       },
       {
         "letter": "O",
         "wordIndex": 3,
         "group": 0,
-        "color": "#a2eba9"
+        "color": "#841978"
       },
       {
         "letter": "R",
@@ -247,7 +247,7 @@
         "letter": "G",
         "wordIndex": 1,
         "group": 0,
-        "color": "#54433e"
+        "color": "#b3900a"
       }
     ],
     [
@@ -417,7 +417,7 @@
     {
       "word": "EGG",
       "group": 0,
-      "color": "#54433e"
+      "color": "#b3900a"
     },
     {
       "word": "FLOUR",
@@ -427,7 +427,7 @@
     {
       "word": "OIL",
       "group": 0,
-      "color": "#a2eba9"
+      "color": "#841978"
     },
     {
       "word": "CORNMEAL",

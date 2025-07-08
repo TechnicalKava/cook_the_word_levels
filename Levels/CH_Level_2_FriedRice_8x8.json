@@ -92,7 +92,7 @@
         "letter": "E",
         "wordIndex": 0,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "I",
@@ -136,7 +136,7 @@
         "letter": "C",
         "wordIndex": 0,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "F",
@@ -180,7 +180,7 @@
         "letter": "I",
         "wordIndex": 0,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "S",
@@ -224,7 +224,7 @@
         "letter": "R",
         "wordIndex": 0,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "S",
@@ -268,7 +268,7 @@
         "letter": "G",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "T",
@@ -312,7 +312,7 @@
         "letter": "G",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "W",
@@ -356,7 +356,7 @@
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b3900a"
       },
       {
         "letter": "D",
@@ -412,12 +412,12 @@
     {
       "word": "RICE",
       "group": 0,
-      "color": "#ccbaf9"
+      "color": "#c9b6f9"
     },
     {
       "word": "EGG",
       "group": 0,
-      "color": "#FFE38C"
+      "color": "#b3900a"
     },
     {
       "word": "SOY",

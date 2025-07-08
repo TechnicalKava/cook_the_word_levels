@@ -41,25 +41,25 @@
         "letter": "F",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8b0000"
+        "color": "#c3611b"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8b0000"
+        "color": "#c3611b"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8b0000"
+        "color": "#c3611b"
       },
       {
         "letter": "B",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8b0000"
+        "color": "#c3611b"
       },
       {
         "letter": "Z",
@@ -103,31 +103,31 @@
         "letter": "P",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f0e68c"
+        "color": "#bd820a"
       },
       {
         "letter": "A",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f0e68c"
+        "color": "#bd820a"
       },
       {
         "letter": "S",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f0e68c"
+        "color": "#bd820a"
       },
       {
         "letter": "T",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f0e68c"
+        "color": "#bd820a"
       },
       {
         "letter": "A",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f0e68c"
+        "color": "#bd820a"
       },
       {
         "letter": "Q",
@@ -277,67 +277,67 @@
         "letter": "T",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       },
       {
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       },
       {
         "letter": "M",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       },
       {
         "letter": "A",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       },
       {
         "letter": "T",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       },
       {
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       },
       {
         "letter": "S",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       },
       {
         "letter": "A",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       },
       {
         "letter": "U",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       },
       {
         "letter": "C",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       },
       {
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#dc143c"
+        "color": "#69a90e"
       }
     ],
     [
@@ -511,37 +511,37 @@
         "letter": "C",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f8de7e"
+        "color": "#b99b00"
       },
       {
         "letter": "H",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f8de7e"
+        "color": "#b99b00"
       },
       {
         "letter": "E",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f8de7e"
+        "color": "#b99b00"
       },
       {
         "letter": "E",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f8de7e"
+        "color": "#b99b00"
       },
       {
         "letter": "S",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f8de7e"
+        "color": "#b99b00"
       },
       {
         "letter": "E",
         "wordIndex": 5,
         "group": 0,
-        "color": "#f8de7e"
+        "color": "#b99b00"
       }
     ]
   ],
@@ -562,7 +562,7 @@
     {
       "word": "TOMATOSAUCE",
       "group": 0,
-      "color": "#dc143c"
+      "color": "#69a90e"
     },
     {
       "word": "CINNAMON",
@@ -572,17 +572,17 @@
     {
       "word": "BEEF",
       "group": 0,
-      "color": "#8b0000"
+      "color": "#c3611b"
     },
     {
       "word": "PASTA",
       "group": 0,
-      "color": "#f0e68c"
+      "color": "#bd820a"
     },
     {
       "word": "CHEESE",
       "group": 0,
-      "color": "#f8de7e"
+      "color": "#b99b00"
     }
   ],
   "theme": "Pastitsio",

@@ -80,19 +80,19 @@
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#FAD65C"
+        "color": "#b3900a"
       },
       {
         "letter": "G",
         "wordIndex": 3,
         "group": 0,
-        "color": "#FAD65C"
+        "color": "#b3900a"
       },
       {
         "letter": "G",
         "wordIndex": 3,
         "group": 0,
-        "color": "#FAD65C"
+        "color": "#b3900a"
       },
       {
         "letter": "V",
@@ -192,31 +192,31 @@
         "letter": "D",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F5F5DC"
+        "color": "#e09918"
       },
       {
         "letter": "O",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F5F5DC"
+        "color": "#e09918"
       },
       {
         "letter": "U",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F5F5DC"
+        "color": "#e09918"
       },
       {
         "letter": "G",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F5F5DC"
+        "color": "#e09918"
       },
       {
         "letter": "H",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F5F5DC"
+        "color": "#e09918"
       },
       {
         "letter": "E",
@@ -236,37 +236,37 @@
         "letter": "C",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "H",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "S",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#FFE38C"
+        "color": "#b99b00"
       },
       {
         "letter": "A",
@@ -298,31 +298,31 @@
         "letter": "B",
         "wordIndex": 2,
         "group": 0,
-        "color": "#D2691E"
+        "color": "#e18070"
       },
       {
         "letter": "A",
         "wordIndex": 2,
         "group": 0,
-        "color": "#D2691E"
+        "color": "#e18070"
       },
       {
         "letter": "C",
         "wordIndex": 2,
         "group": 0,
-        "color": "#D2691E"
+        "color": "#e18070"
       },
       {
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#D2691E"
+        "color": "#e18070"
       },
       {
         "letter": "N",
         "wordIndex": 2,
         "group": 0,
-        "color": "#D2691E"
+        "color": "#e18070"
       },
       {
         "letter": "B",
@@ -523,22 +523,22 @@
     {
       "word": "CHEESE",
       "group": 0,
-      "color": "#FFE38C"
+      "color": "#b99b00"
     },
     {
       "word": "BACON",
       "group": 0,
-      "color": "#D2691E"
+      "color": "#e18070"
     },
     {
       "word": "EGG",
       "group": 0,
-      "color": "#FAD65C"
+      "color": "#b3900a"
     },
     {
       "word": "DOUGH",
       "group": 0,
-      "color": "#F5F5DC"
+      "color": "#e09918"
     },
     {
       "word": "NUTMEG",

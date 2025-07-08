@@ -109,7 +109,7 @@
         "letter": "G",
         "wordIndex": 0,
         "group": 0,
-        "color": "#fffacd"
+        "color": "#b3900a"
       },
       {
         "letter": "B",
@@ -171,7 +171,7 @@
         "letter": "G",
         "wordIndex": 0,
         "group": 0,
-        "color": "#fffacd"
+        "color": "#b3900a"
       },
       {
         "letter": "T",
@@ -209,7 +209,7 @@
         "letter": "N",
         "wordIndex": 1,
         "group": 0,
-        "color": "#f0e68c"
+        "color": "#d1921c"
       },
       {
         "letter": "O",
@@ -221,25 +221,25 @@
         "letter": "B",
         "wordIndex": 4,
         "group": 0,
-        "color": "#8b0000"
+        "color": "#c3611b"
       },
       {
         "letter": "E",
         "wordIndex": 4,
         "group": 0,
-        "color": "#8b0000"
+        "color": "#c3611b"
       },
       {
         "letter": "E",
         "wordIndex": 4,
         "group": 0,
-        "color": "#8b0000"
+        "color": "#c3611b"
       },
       {
         "letter": "F",
         "wordIndex": 4,
         "group": 0,
-        "color": "#8b0000"
+        "color": "#c3611b"
       },
       {
         "letter": "Y",
@@ -283,7 +283,7 @@
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#f0e68c"
+        "color": "#d1921c"
       },
       {
         "letter": "S",
@@ -357,7 +357,7 @@
         "letter": "I",
         "wordIndex": 1,
         "group": 0,
-        "color": "#f0e68c"
+        "color": "#d1921c"
       },
       {
         "letter": "F",
@@ -431,7 +431,7 @@
         "letter": "N",
         "wordIndex": 1,
         "group": 0,
-        "color": "#f0e68c"
+        "color": "#d1921c"
       },
       {
         "letter": "B",
@@ -505,7 +505,7 @@
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#f0e68c"
+        "color": "#d1921c"
       },
       {
         "letter": "W",
@@ -556,12 +556,12 @@
     {
       "word": "EGG",
       "group": 0,
-      "color": "#fffacd"
+      "color": "#b3900a"
     },
     {
       "word": "ONION",
       "group": 0,
-      "color": "#f0e68c"
+      "color": "#d1921c"
     },
     {
       "word": "MINT",
@@ -576,7 +576,7 @@
     {
       "word": "BEEF",
       "group": 0,
-      "color": "#8b0000"
+      "color": "#c3611b"
     }
   ],
   "theme": "Keftedes",

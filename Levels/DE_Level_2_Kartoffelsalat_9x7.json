@@ -92,7 +92,7 @@
         "letter": "L",
         "wordIndex": 4,
         "group": 0,
-        "color": "#a2eba9"
+        "color": "#841978"
       },
       {
         "letter": "O",
@@ -118,37 +118,37 @@
         "letter": "O",
         "wordIndex": 0,
         "group": 0,
-        "color": "#6da510"
+        "color": "#d1921c"
       },
       {
         "letter": "N",
         "wordIndex": 0,
         "group": 0,
-        "color": "#6da510"
+        "color": "#d1921c"
       },
       {
         "letter": "I",
         "wordIndex": 0,
         "group": 0,
-        "color": "#6da510"
+        "color": "#d1921c"
       },
       {
         "letter": "O",
         "wordIndex": 0,
         "group": 0,
-        "color": "#6da510"
+        "color": "#d1921c"
       },
       {
         "letter": "N",
         "wordIndex": 0,
         "group": 0,
-        "color": "#6da510"
+        "color": "#d1921c"
       },
       {
         "letter": "I",
         "wordIndex": 4,
         "group": 0,
-        "color": "#a2eba9"
+        "color": "#841978"
       },
       {
         "letter": "I",
@@ -204,7 +204,7 @@
         "letter": "O",
         "wordIndex": 4,
         "group": 0,
-        "color": "#a2eba9"
+        "color": "#841978"
       },
       {
         "letter": "S",
@@ -236,37 +236,37 @@
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "A",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "O",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "P",
         "wordIndex": 2,
         "group": 0,
-        "color": "#8ac6f2"
+        "color": "#cc9427"
       },
       {
         "letter": "I",
@@ -405,7 +405,7 @@
     {
       "word": "ONION",
       "group": 0,
-      "color": "#6da510"
+      "color": "#d1921c"
     },
     {
       "word": "VINEGAR",
@@ -415,7 +415,7 @@
     {
       "word": "POTATO",
       "group": 0,
-      "color": "#8ac6f2"
+      "color": "#cc9427"
     },
     {
       "word": "MUSTARD",
@@ -425,7 +425,7 @@
     {
       "word": "OIL",
       "group": 0,
-      "color": "#a2eba9"
+      "color": "#841978"
     }
   ],
   "theme": "Kartoffelsalat",

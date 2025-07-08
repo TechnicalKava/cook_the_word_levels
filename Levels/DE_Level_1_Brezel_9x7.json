@@ -230,25 +230,25 @@
         "letter": "T",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "L",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "A",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "S",
         "wordIndex": 3,
         "group": 0,
-        "color": "#8c4f43"
+        "color": "#8d9aa4"
       },
       {
         "letter": "T",
@@ -354,37 +354,37 @@
         "letter": "R",
         "wordIndex": 2,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "E",
         "wordIndex": 2,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "T",
         "wordIndex": 2,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "U",
         "wordIndex": 2,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "B",
         "wordIndex": 2,
         "group": 0,
-        "color": "#bf32b3"
+        "color": "#d69600"
       },
       {
         "letter": "B",
@@ -415,12 +415,12 @@
     {
       "word": "BUTTER",
       "group": 0,
-      "color": "#bf32b3"
+      "color": "#d69600"
     },
     {
       "word": "SALT",
       "group": 0,
-      "color": "#8c4f43"
+      "color": "#8d9aa4"
     },
     {
       "word": "WATER",

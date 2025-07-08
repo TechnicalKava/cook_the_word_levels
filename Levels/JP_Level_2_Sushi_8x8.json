@@ -56,7 +56,7 @@
         "letter": "E",
         "wordIndex": 1,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "D",
@@ -106,7 +106,7 @@
         "letter": "C",
         "wordIndex": 1,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "Y",
@@ -156,7 +156,7 @@
         "letter": "I",
         "wordIndex": 1,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "Q",
@@ -206,7 +206,7 @@
         "letter": "R",
         "wordIndex": 1,
         "group": 0,
-        "color": "#ccbaf9"
+        "color": "#c9b6f9"
       },
       {
         "letter": "Y",
@@ -419,7 +419,7 @@
     {
       "word": "RICE",
       "group": 0,
-      "color": "#ccbaf9"
+      "color": "#c9b6f9"
     },
     {
       "word": "NORI",

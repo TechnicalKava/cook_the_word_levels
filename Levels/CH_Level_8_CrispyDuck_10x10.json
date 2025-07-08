@@ -80,7 +80,7 @@
         "letter": "C",
         "wordIndex": 7,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "J",
@@ -142,7 +142,7 @@
         "letter": "I",
         "wordIndex": 7,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "X",
@@ -204,13 +204,13 @@
         "letter": "L",
         "wordIndex": 7,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "P",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "E",
@@ -222,25 +222,25 @@
         "letter": "P",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "P",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "E",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "R",
         "wordIndex": 3,
         "group": 0,
-        "color": "#d46a6a"
+        "color": "#7e7e7e"
       },
       {
         "letter": "E",
@@ -266,7 +266,7 @@
         "letter": "R",
         "wordIndex": 7,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "S",
@@ -328,7 +328,7 @@
         "letter": "A",
         "wordIndex": 7,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "I",
@@ -390,7 +390,7 @@
         "letter": "G",
         "wordIndex": 7,
         "group": 0,
-        "color": "#FFF8DC"
+        "color": "#cc8226"
       },
       {
         "letter": "F",
@@ -651,7 +651,7 @@
     {
       "word": "PEPPER",
       "group": 0,
-      "color": "#d46a6a"
+      "color": "#7e7e7e"
     },
     {
       "word": "CUCUMBER",
@@ -671,7 +671,7 @@
     {
       "word": "GARLIC",
       "group": 0,
-      "color": "#FFF8DC"
+      "color": "#cc8226"
     }
   ],
   "theme": "CrispyDuck",

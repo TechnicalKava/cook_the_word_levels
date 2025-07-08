@@ -80,7 +80,7 @@
         "letter": "C",
         "wordIndex": 4,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "G",
@@ -116,7 +116,7 @@
         "letter": "F",
         "wordIndex": 7,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "L",
@@ -142,7 +142,7 @@
         "letter": "A",
         "wordIndex": 4,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "Z",
@@ -178,7 +178,7 @@
         "letter": "E",
         "wordIndex": 7,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "A",
@@ -204,7 +204,7 @@
         "letter": "R",
         "wordIndex": 4,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "U",
@@ -240,7 +240,7 @@
         "letter": "E",
         "wordIndex": 7,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "E",
@@ -266,7 +266,7 @@
         "letter": "R",
         "wordIndex": 4,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "D",
@@ -302,7 +302,7 @@
         "letter": "B",
         "wordIndex": 7,
         "group": 0,
-        "color": "#8B4513"
+        "color": "#c3611b"
       },
       {
         "letter": "E",
@@ -328,7 +328,7 @@
         "letter": "O",
         "wordIndex": 4,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "O",
@@ -390,7 +390,7 @@
         "letter": "T",
         "wordIndex": 4,
         "group": 0,
-        "color": "#FFA07A"
+        "color": "#a336e7"
       },
       {
         "letter": "M",
@@ -656,7 +656,7 @@
     {
       "word": "CARROT",
       "group": 0,
-      "color": "#FFA07A"
+      "color": "#a336e7"
     },
     {
       "word": "MUSHROOM",
@@ -671,7 +671,7 @@
     {
       "word": "BEEF",
       "group": 0,
-      "color": "#8B4513"
+      "color": "#c3611b"
     }
   ],
   "theme": "GlassNoodles",

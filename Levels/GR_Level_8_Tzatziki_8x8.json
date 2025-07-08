@@ -147,7 +147,7 @@
         "letter": "C",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f5f5dc"
+        "color": "#cc8226"
       }
     ],
     [
@@ -197,7 +197,7 @@
         "letter": "I",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f5f5dc"
+        "color": "#cc8226"
       }
     ],
     [
@@ -247,7 +247,7 @@
         "letter": "L",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f5f5dc"
+        "color": "#cc8226"
       }
     ],
     [
@@ -297,7 +297,7 @@
         "letter": "R",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f5f5dc"
+        "color": "#cc8226"
       }
     ],
     [
@@ -347,7 +347,7 @@
         "letter": "A",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f5f5dc"
+        "color": "#cc8226"
       }
     ],
     [
@@ -397,7 +397,7 @@
         "letter": "G",
         "wordIndex": 4,
         "group": 0,
-        "color": "#f5f5dc"
+        "color": "#cc8226"
       }
     ]
   ],
@@ -432,7 +432,7 @@
     {
       "word": "GARLIC",
       "group": 0,
-      "color": "#f5f5dc"
+      "color": "#cc8226"
     }
   ],
   "theme": "Tzatziki",
