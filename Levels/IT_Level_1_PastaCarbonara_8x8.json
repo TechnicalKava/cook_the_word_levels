@@ -6,37 +6,37 @@
         "letter": "E",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFE76B"
+        "color": "#b99b00"
       },
       {
         "letter": "S",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFE76B"
+        "color": "#b99b00"
       },
       {
         "letter": "E",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFE76B"
+        "color": "#b99b00"
       },
       {
         "letter": "E",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFE76B"
+        "color": "#b99b00"
       },
       {
         "letter": "H",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFE76B"
+        "color": "#b99b00"
       },
       {
         "letter": "C",
         "wordIndex": 2,
         "group": 0,
-        "color": "#FFE76B"
+        "color": "#b99b00"
       },
       {
         "letter": "K",
@@ -48,7 +48,7 @@
         "letter": "A",
         "wordIndex": 3,
         "group": 0,
-        "color": "#F7C663"
+        "color": "#bd820a"
       }
     ],
     [
@@ -56,19 +56,19 @@
         "letter": "G",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F6D75D"
+        "color": "#b3900a"
       },
       {
         "letter": "G",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F6D75D"
+        "color": "#b3900a"
       },
       {
         "letter": "E",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F6D75D"
+        "color": "#b3900a"
       },
       {
         "letter": "D",
@@ -80,7 +80,7 @@
         "letter": "P",
         "wordIndex": 0,
         "group": 0,
-        "color": "#E2B765"
+        "color": "#cc9427"
       },
       {
         "letter": "O",
@@ -98,7 +98,7 @@
         "letter": "T",
         "wordIndex": 3,
         "group": 0,
-        "color": "#F7C663"
+        "color": "#bd820a"
       }
     ],
     [
@@ -130,7 +130,7 @@
         "letter": "O",
         "wordIndex": 0,
         "group": 0,
-        "color": "#E2B765"
+        "color": "#cc9427"
       },
       {
         "letter": "H",
@@ -148,7 +148,7 @@
         "letter": "S",
         "wordIndex": 3,
         "group": 0,
-        "color": "#F7C663"
+        "color": "#bd820a"
       }
     ],
     [
@@ -168,7 +168,7 @@
         "letter": "B",
         "wordIndex": 1,
         "group": 0,
-        "color": "#D95F4B"
+        "color": "#e18070"
       },
       {
         "letter": "S",
@@ -180,7 +180,7 @@
         "letter": "T",
         "wordIndex": 0,
         "group": 0,
-        "color": "#E2B765"
+        "color": "#cc9427"
       },
       {
         "letter": "R",
@@ -198,7 +198,7 @@
         "letter": "A",
         "wordIndex": 3,
         "group": 0,
-        "color": "#F7C663"
+        "color": "#bd820a"
       }
     ],
     [
@@ -218,7 +218,7 @@
         "letter": "A",
         "wordIndex": 1,
         "group": 0,
-        "color": "#D95F4B"
+        "color": "#e18070"
       },
       {
         "letter": "T",
@@ -230,7 +230,7 @@
         "letter": "A",
         "wordIndex": 0,
         "group": 0,
-        "color": "#E2B765"
+        "color": "#cc9427"
       },
       {
         "letter": "Q",
@@ -248,7 +248,7 @@
         "letter": "P",
         "wordIndex": 3,
         "group": 0,
-        "color": "#F7C663"
+        "color": "#bd820a"
       }
     ],
     [
@@ -268,7 +268,7 @@
         "letter": "C",
         "wordIndex": 1,
         "group": 0,
-        "color": "#D95F4B"
+        "color": "#e18070"
       },
       {
         "letter": "Y",
@@ -280,7 +280,7 @@
         "letter": "T",
         "wordIndex": 0,
         "group": 0,
-        "color": "#E2B765"
+        "color": "#cc9427"
       },
       {
         "letter": "U",
@@ -318,7 +318,7 @@
         "letter": "O",
         "wordIndex": 1,
         "group": 0,
-        "color": "#D95F4B"
+        "color": "#e18070"
       },
       {
         "letter": "K",
@@ -330,7 +330,7 @@
         "letter": "O",
         "wordIndex": 0,
         "group": 0,
-        "color": "#E2B765"
+        "color": "#cc9427"
       },
       {
         "letter": "F",
@@ -368,7 +368,7 @@
         "letter": "N",
         "wordIndex": 1,
         "group": 0,
-        "color": "#D95F4B"
+        "color": "#e18070"
       },
       {
         "letter": "X",
@@ -413,27 +413,27 @@
     {
       "word": "POTATO",
       "group": 0,
-      "color": "#E2B765"
+      "color": "#cc9427"
     },
     {
       "word": "BACON",
       "group": 0,
-      "color": "#D95F4B"
+      "color": "#e18070"
     },
     {
       "word": "CHEESE",
       "group": 0,
-      "color": "#FFE76B"
+      "color": "#b99b00"
     },
     {
       "word": "PASTA",
       "group": 0,
-      "color": "#F7C663"
+      "color": "#bd820a"
     },
     {
       "word": "EGG",
       "group": 0,
-      "color": "#F6D75D"
+      "color": "#b3900a"
     }
   ],
   "theme": "Pasta Carbonara",
