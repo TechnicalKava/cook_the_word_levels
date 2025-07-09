@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Croissant",
+    "words": [
+      {
+        "word": "EGG",
+        "color": "#b3900a",
+        "translation": "Яйцо"
+      },
+      {
+        "word": "MILK",
+        "color": "#aa936c",
+        "translation": "Молоко"
+      },
+      {
+        "word": "YEAST",
+        "color": "#D2B48C",
+        "translation": "Дрожжи"
+      },
+      {
+        "word": "BUTTER",
+        "color": "#d69600",
+        "translation": "Масло"
+      },
+      {
+        "word": "SALT",
+        "color": "#8d9aa4",
+        "translation": "Соль"
+      },
+      {
+        "word": "FLOUR",
+        "color": "#a59d93",
+        "translation": "Мука"
+      },
+      {
+        "word": "SUGAR",
+        "color": "#5da59d",
+        "translation": "Сахар"
+      }
+    ]
+  },
+  {
+    "name": "Creme Brulee",
+    "words": [
+      {
+        "word": "SUGAR",
+        "color": "#5da59d",
+        "translation": "Сахар"
+      },
+      {
+        "word": "CREAM",
+        "color": "#5a98ab",
+        "translation": "Сливки"
+      },
+      {
+        "word": "EGG",
+        "color": "#b3900a",
+        "translation": "Яйцо"
+      },
+      {
+        "word": "CARAMEL",
+        "color": "#c68e17",
+        "translation": "Карамель"
+      },
+      {
+        "word": "VANILLA",
+        "color": "#f3e5ab",
+        "translation": "Ваниль"
+      }
+    ]
+  },
+  {
+    "name": "Frog Legs",
+    "words": [
+      {
+        "word": "FLOUR",
+        "color": "#a59d93",
+        "translation": "Мука"
+      },
+      {
+        "word": "GARLIC",
+        "color": "#cc8226",
+        "translation": "Чеснок"
+      },
+      {
+        "word": "VINBLANC",
+        "color": "#77a519",
+        "translation": "Белое вино"
+      },
+      {
+        "word": "FROGLEGS",
+        "color": "#b0e0e6",
+        "translation": "Лягушачьи лапки"
+      },
+      {
+        "word": "BUTTER",
+        "color": "#d69600",
+        "translation": "Масло"
+      },
+      {
+        "word": "PARSLEY",
+        "color": "#228b22",
+        "translation": "Петрушка"
+      },
+      {
+        "word": "LEMON",
+        "color": "#b99e00",
+        "translation": "Лимон"
+      }
+    ]
+  },
+  {
+    "name": "Beef Bourguignon",
+    "words": [
+      {
+        "word": "CARROT",
+        "color": "#a336e7",
+        "translation": "Морковь"
+      },
+      {
+        "word": "GARLIC",
+        "color": "#cc8226",
+        "translation": "Чеснок"
+      },
+      {
+        "word": "MUSHROOMS",
+        "color": "#c1a782",
+        "translation": "Грибы"
+      },
+      {
+        "word": "ONION",
+        "color": "#d1921c",
+        "translation": "Лук"
+      },
+      {
+        "word": "BEEF",
+        "color": "#c3611b",
+        "translation": "Говядина"
+      },
+      {
+        "word": "BACON",
+        "color": "#e18070",
+        "translation": "Бекон"
+      },
+      {
+        "word": "THYME",
+        "color": "#556b2f",
+        "translation": "Тимьян"
+      },
+      {
+        "word": "WINE",
+        "color": "#722f37",
+        "translation": "Вино"
+      }
+    ]
+  },
+  {
+    "name": "Cheese Souffle",
+    "words": [
+      {
+        "word": "EGG",
+        "color": "#b3900a",
+        "translation": "Яйцо"
+      },
+      {
+        "word": "CHEESE",
+        "color": "#b99b00",
+        "translation": "Сыр"
+      },
+      {
+        "word": "SALT",
+        "color": "#8d9aa4",
+        "translation": "Соль"
+      },
+      {
+        "word": "BUTTER",
+        "color": "#d69600",
+        "translation": "Масло"
+      },
+      {
+        "word": "FLOUR",
+        "color": "#a59d93",
+        "translation": "Мука"
+      },
+      {
+        "word": "MILK",
+        "color": "#aa936c",
+        "translation": "Молоко"
+      }
+    ]
+  },
+  {
+    "name": "Escargots de Bourgogne",
+    "words": [
+      {
+        "word": "GARLIC",
+        "color": "#cc8226",
+        "translation": "Чеснок"
+      },
+      {
+        "word": "BUTTER",
+        "color": "#d69600",
+        "translation": "Масло"
+      },
+      {
+        "word": "SHALLOT",
+        "color": "#b35c44",
+        "translation": "Шалот"
+      },
+      {
+        "word": "VINBLANC",
+        "color": "#77a519",
+        "translation": "Белое вино"
+      },
+      {
+        "word": "PARSLEY",
+        "color": "#228b22",
+        "translation": "Петрушка"
+      },
+      {
+        "word": "SNAILS",
+        "color": "#9e7b6a",
+        "translation": "Улитки"
+      }
+    ]
+  },
+  {
+    "name": "Ratatouille",
+    "words": [
+      {
+        "word": "GARLIC",
+        "color": "#cc8226",
+        "translation": "Чеснок"
+      },
+      {
+        "word": "SWEETPEPPER",
+        "color": "#e7543d",
+        "translation": "Сладкий перец"
+      },
+      {
+        "word": "ZUCCHINI",
+        "color": "#e38d0d",
+        "translation": "Цукини"
+      },
+      {
+        "word": "THYME",
+        "color": "#556b2f",
+        "translation": "Тимьян"
+      },
+      {
+        "word": "ONION",
+        "color": "#d1921c",
+        "translation": "Лук"
+      },
+      {
+        "word": "TOMATO",
+        "color": "#ed7971",
+        "translation": "Томат"
+      },
+      {
+        "word": "EGGPLANT",
+        "color": "#8092ae",
+        "translation": "Баклажан"
+      },
+      {
+        "word": "OLIVE",
+        "color": "#841978",
+        "translation": "Оливка"
+      }
+    ]
+  },
+  {
+    "name": "Quiche Lorraine",
+    "words": [
+      {
+        "word": "CREAM",
+        "color": "#5a98ab",
+        "translation": "Сливки"
+      },
+      {
+        "word": "CHEESE",
+        "color": "#b99b00",
+        "translation": "Сыр"
+      },
+      {
+        "word": "BACON",
+        "color": "#e18070",
+        "translation": "Бекон"
+      },
+      {
+        "word": "EGG",
+        "color": "#b3900a",
+        "translation": "Яйцо"
+      },
+      {
+        "word": "DOUGH",
+        "color": "#e09918",
+        "translation": "Тесто"
+      },
+      {
+        "word": "NUTMEG",
+        "color": "#a9746e",
+        "translation": "Мускатный орех"
+      }
+    ]
+  },
+  {
+    "name": "French Onion Soup",
+    "words": [
+      {
+        "word": "THYME",
+        "color": "#556b2f",
+        "translation": "Тимьян"
+      },
+      {
+        "word": "BAGUETTE",
+        "color": "#e3c598",
+        "translation": "Багет"
+      },
+      {
+        "word": "BROTH",
+        "color": "#858ca1",
+        "translation": "Бульон"
+      },
+      {
+        "word": "ONION",
+        "color": "#d1921c",
+        "translation": "Лук"
+      },
+      {
+        "word": "VINBLANC",
+        "color": "#77a519",
+        "translation": "Белое вино"
+      },
+      {
+        "word": "GRUYERE",
+        "color": "#f5e37b",
+        "translation": "Грюйер"
+      }
+    ]
+  },
+  {
+    "name": "Lobster Bisque",
+    "words": [
+      {
+        "word": "CREAM",
+        "color": "#5a98ab",
+        "translation": "Сливки"
+      },
+      {
+        "word": "BUTTER",
+        "color": "#d69600",
+        "translation": "Масло"
+      },
+      {
+        "word": "LOBSTER",
+        "color": "#f04c3d",
+        "translation": "Омар"
+      },
+      {
+        "word": "SHALLOT",
+        "color": "#b35c44",
+        "translation": "Шалот"
+      },
+      {
+        "word": "COGNAC",
+        "color": "#b25f37",
+        "translation": "Коньяк"
+      },
+      {
+        "word": "TOMAPASTE",
+        "color": "#df745c",
+        "translation": "Томатная паста"
+      },
+      {
+        "word": "GARLIC",
+        "color": "#cc8226",
+        "translation": "Чеснок"
+      }
+    ]
+  }
+]
