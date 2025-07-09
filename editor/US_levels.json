@@ -1,42 +1,337 @@
 [
   {
-    "name": "Corn Dog",
+    "name": "Clam Chowder",
     "words": [
-      { "word": "SAUSAGE", "color": "#29c37b", "translation": "Сосиска" },
-      { "word": "CORNMEAL", "color": "#0889a3", "translation": "Кукурузная мука" },
-      { "word": "EGG", "color": "#54433e", "translation": "Яйцо" },
-      { "word": "FLOUR", "color": "#a59d93", "translation": "Мука" },
-      { "word": "OIL", "color": "#a2eba9", "translation": "Масло" }
+      {
+        "word": "ONION",
+        "color": "#d1921c",
+        "translation": "Лук"
+      },
+      {
+        "word": "CREAM",
+        "color": "#5a98ab",
+        "translation": "Сливки"
+      },
+      {
+        "word": "BACON",
+        "color": "#e18070",
+        "translation": "Бекон"
+      },
+      {
+        "word": "POTATO",
+        "color": "#cc9427",
+        "translation": "Картофель"
+      },
+      {
+        "word": "CLAMS",
+        "color": "#232509",
+        "translation": "Моллюски"
+      }
+    ]
+  },
+  {
+    "name": "Hot Dog",
+    "words": [
+      {
+        "word": "MUSTARD",
+        "color": "#FAD02E",
+        "translation": "Горчица"
+      },
+      {
+        "word": "KETCHUP",
+        "color": "#E53935",
+        "translation": "Кетчуп"
+      },
+      {
+        "word": "ONION",
+        "color": "#d1921c",
+        "translation": "Лук"
+      },
+      {
+        "word": "BUN",
+        "color": "#E6B97D",
+        "translation": "—"
+      },
+      {
+        "word": "SAUSAGE",
+        "color": "#C14430",
+        "translation": "Сосиска"
+      },
+      {
+        "word": "PICKLES",
+        "color": "#A5C765",
+        "translation": "—"
+      }
+    ]
+  },
+  {
+    "name": "Apple Pie",
+    "words": [
+      {
+        "word": "APPLE",
+        "color": "#D84315",
+        "translation": "Яблоко"
+      },
+      {
+        "word": "EGG",
+        "color": "#b3900a",
+        "translation": "Яйцо"
+      },
+      {
+        "word": "DOUGH",
+        "color": "#e09918",
+        "translation": "—"
+      },
+      {
+        "word": "BUTTER",
+        "color": "#d69600",
+        "translation": "Масло"
+      },
+      {
+        "word": "CINNAMON",
+        "color": "#A0522D",
+        "translation": "Корица"
+      },
+      {
+        "word": "SUGAR",
+        "color": "#F8E8D0",
+        "translation": "Сахар"
+      }
+    ]
+  },
+  {
+    "name": "Burger",
+    "words": [
+      {
+        "word": "BEEF",
+        "color": "#c3611b",
+        "translation": "Говядина"
+      },
+      {
+        "word": "BUN",
+        "color": "#E6B97D",
+        "translation": "—"
+      },
+      {
+        "word": "LETTUCE",
+        "color": "#6cb739",
+        "translation": "Листовой салат"
+      },
+      {
+        "word": "TOMATO",
+        "color": "#ed7971",
+        "translation": "Помидор"
+      },
+      {
+        "word": "PICKLES",
+        "color": "#A5C765",
+        "translation": "—"
+      },
+      {
+        "word": "ONION",
+        "color": "#d1921c",
+        "translation": "Лук"
+      },
+      {
+        "word": "CHEESE",
+        "color": "#b99b00",
+        "translation": "Сыр"
+      }
+    ]
+  },
+  {
+    "name": "Pancakes",
+    "words": [
+      {
+        "word": "SUGAR",
+        "color": "#F8E8D0",
+        "translation": "Сахар"
+      },
+      {
+        "word": "MILK",
+        "color": "#aa936c",
+        "translation": "—"
+      },
+      {
+        "word": "BUTTER",
+        "color": "#d69600",
+        "translation": "Масло"
+      },
+      {
+        "word": "EGG",
+        "color": "#b3900a",
+        "translation": "Яйцо"
+      },
+      {
+        "word": "FLOUR",
+        "color": "#F7E7CE",
+        "translation": "Мука"
+      },
+      {
+        "word": "SYRUP",
+        "color": "#B76E27",
+        "translation": "Сироп"
+      }
+    ]
+  },
+  {
+    "name": "Cheeseburger",
+    "words": [
+      {
+        "word": "PICKLES",
+        "color": "#A5C765",
+        "translation": "—"
+      },
+      {
+        "word": "LETTUCE",
+        "color": "#6cb739",
+        "translation": "Листовой салат"
+      },
+      {
+        "word": "ONION",
+        "color": "#d1921c",
+        "translation": "Лук"
+      },
+      {
+        "word": "TOMATO",
+        "color": "#ed7971",
+        "translation": "Помидор"
+      },
+      {
+        "word": "BUN",
+        "color": "#E6B97D",
+        "translation": "—"
+      },
+      {
+        "word": "BEEF",
+        "color": "#c3611b",
+        "translation": "Говядина"
+      },
+      {
+        "word": "CHEESE",
+        "color": "#b99b00",
+        "translation": "Сыр"
+      }
+    ]
+  },
+  {
+    "name": "Mac and Cheese",
+    "words": [
+      {
+        "word": "CHEESE",
+        "color": "#b99b00",
+        "translation": "Сыр"
+      },
+      {
+        "word": "BUTTER",
+        "color": "#d69600",
+        "translation": "Масло"
+      },
+      {
+        "word": "SALT",
+        "color": "#8d9aa4",
+        "translation": "Соль"
+      },
+      {
+        "word": "PASTA",
+        "color": "#bd820a",
+        "translation": "—"
+      },
+      {
+        "word": "MILK",
+        "color": "#aa936c",
+        "translation": "—"
+      }
     ]
   },
   {
     "name": "BBQ Ribs",
     "words": [
-      { "word": "RIBS", "color": "#9f6017", "translation": "Рёбра" },
-      { "word": "BBQSAUCE", "color": "#7a8bb0", "translation": "Барбекю соус" },
-      { "word": "SALT", "color": "#8c4f43", "translation": "Соль" },
-      { "word": "PEPPER", "color": "#20c8c0", "translation": "Перец" },
-      { "word": "GARLIC", "color": "#23a3dc", "translation": "Чеснок" }
+      {
+        "word": "RIBS",
+        "color": "#9f6017",
+        "translation": "Рёбра"
+      },
+      {
+        "word": "PEPPER",
+        "color": "#7e7e7e",
+        "translation": "Перец"
+      },
+      {
+        "word": "SALT",
+        "color": "#8d9aa4",
+        "translation": "Соль"
+      },
+      {
+        "word": "BBQSAUCE",
+        "color": "#7a8bb0",
+        "translation": "Барбекю соус"
+      },
+      {
+        "word": "GARLIC",
+        "color": "#cc8226",
+        "translation": "Чеснок"
+      }
+    ]
+  },
+  {
+    "name": "Corn Dog",
+    "words": [
+      {
+        "word": "SAUSAGE",
+        "color": "#29c37b",
+        "translation": "Сосиска"
+      },
+      {
+        "word": "EGG",
+        "color": "#b3900a",
+        "translation": "Яйцо"
+      },
+      {
+        "word": "FLOUR",
+        "color": "#a59d93",
+        "translation": "Мука"
+      },
+      {
+        "word": "OIL",
+        "color": "#841978",
+        "translation": "Масло"
+      },
+      {
+        "word": "CORNMEAL",
+        "color": "#0889a3",
+        "translation": "Кукурузная мука"
+      }
     ]
   },
   {
     "name": "Buffalo Wings",
     "words": [
-      { "word": "CHICKEN", "color": "#ace6a8", "translation": "Курица" },
-      { "word": "HOTSAUCE", "color": "#e14c48", "translation": "Острый соус" },
-      { "word": "BUTTER", "color": "#bf32b3", "translation": "Масло" },
-      { "word": "GARLIC", "color": "#23a3dc", "translation": "Чеснок" },
-      { "word": "CELERY", "color": "#d49b8a", "translation": "Сельдерей" }
-    ]
-  },
-  {
-    "name": "Clam Chowder",
-    "words": [
-      { "word": "CLAMS", "color": "#232509", "translation": "Моллюски" },
-      { "word": "POTATO", "color": "#8ac6f2", "translation": "Картофель" },
-      { "word": "ONION", "color": "#6da510", "translation": "Лук" },
-      { "word": "CREAM", "color": "#5a98ab", "translation": "Сливки" },
-      { "word": "BACON", "color": "#168386", "translation": "Бекон" }
+      {
+        "word": "BUTTER",
+        "color": "#d69600",
+        "translation": "Масло"
+      },
+      {
+        "word": "HOTSAUCE",
+        "color": "#e14c48",
+        "translation": "Острый соус"
+      },
+      {
+        "word": "GARLIC",
+        "color": "#cc8226",
+        "translation": "Чеснок"
+      },
+      {
+        "word": "CELERY",
+        "color": "#d39988",
+        "translation": "Сельдерей"
+      },
+      {
+        "word": "CHICKEN",
+        "color": "#d7873d",
+        "translation": "Курица"
+      }
     ]
   }
 ]
