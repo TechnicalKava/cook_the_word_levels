@@ -18,31 +18,31 @@
         "letter": "R",
         "wordIndex": 5,
         "group": 0,
-        "color": "#F8E8D0"
+        "color": "#5da59d"
       },
       {
         "letter": "A",
         "wordIndex": 5,
         "group": 0,
-        "color": "#F8E8D0"
+        "color": "#5da59d"
       },
       {
         "letter": "G",
         "wordIndex": 5,
         "group": 0,
-        "color": "#F8E8D0"
+        "color": "#5da59d"
       },
       {
         "letter": "U",
         "wordIndex": 5,
         "group": 0,
-        "color": "#F8E8D0"
+        "color": "#5da59d"
       },
       {
         "letter": "S",
         "wordIndex": 5,
         "group": 0,
-        "color": "#F8E8D0"
+        "color": "#5da59d"
       },
       {
         "letter": "J",
@@ -659,7 +659,7 @@
     {
       "word": "SUGAR",
       "group": 0,
-      "color": "#F8E8D0"
+      "color": "#5da59d"
     }
   ],
   "theme": "Apple Pie",

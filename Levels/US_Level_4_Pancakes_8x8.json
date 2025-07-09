@@ -86,7 +86,7 @@
         "letter": "F",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F7E7CE"
+        "color": "#a59d93"
       },
       {
         "letter": "M",
@@ -130,13 +130,13 @@
         "letter": "S",
         "wordIndex": 0,
         "group": 0,
-        "color": "#F8E8D0"
+        "color": "#5da59d"
       },
       {
         "letter": "L",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F7E7CE"
+        "color": "#a59d93"
       },
       {
         "letter": "H",
@@ -180,13 +180,13 @@
         "letter": "U",
         "wordIndex": 0,
         "group": 0,
-        "color": "#F8E8D0"
+        "color": "#5da59d"
       },
       {
         "letter": "O",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F7E7CE"
+        "color": "#a59d93"
       },
       {
         "letter": "A",
@@ -230,13 +230,13 @@
         "letter": "G",
         "wordIndex": 0,
         "group": 0,
-        "color": "#F8E8D0"
+        "color": "#5da59d"
       },
       {
         "letter": "U",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F7E7CE"
+        "color": "#a59d93"
       },
       {
         "letter": "H",
@@ -280,13 +280,13 @@
         "letter": "A",
         "wordIndex": 0,
         "group": 0,
-        "color": "#F8E8D0"
+        "color": "#5da59d"
       },
       {
         "letter": "R",
         "wordIndex": 4,
         "group": 0,
-        "color": "#F7E7CE"
+        "color": "#a59d93"
       },
       {
         "letter": "K",
@@ -330,7 +330,7 @@
         "letter": "R",
         "wordIndex": 0,
         "group": 0,
-        "color": "#F8E8D0"
+        "color": "#5da59d"
       },
       {
         "letter": "Q",
@@ -414,7 +414,7 @@
     {
       "word": "SUGAR",
       "group": 0,
-      "color": "#F8E8D0"
+      "color": "#5da59d"
     },
     {
       "word": "MILK",
@@ -434,7 +434,7 @@
     {
       "word": "FLOUR",
       "group": 0,
-      "color": "#F7E7CE"
+      "color": "#a59d93"
     },
     {
       "word": "SYRUP",
