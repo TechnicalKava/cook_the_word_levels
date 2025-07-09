@@ -48,7 +48,7 @@
         "letter": "D",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FAD02E"
+        "color": "#ce8903"
       },
       {
         "letter": "B",
@@ -104,7 +104,7 @@
         "letter": "R",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FAD02E"
+        "color": "#ce8903"
       },
       {
         "letter": "L",
@@ -160,7 +160,7 @@
         "letter": "A",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FAD02E"
+        "color": "#ce8903"
       },
       {
         "letter": "O",
@@ -216,7 +216,7 @@
         "letter": "T",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FAD02E"
+        "color": "#ce8903"
       },
       {
         "letter": "N",
@@ -272,7 +272,7 @@
         "letter": "S",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FAD02E"
+        "color": "#ce8903"
       },
       {
         "letter": "I",
@@ -328,7 +328,7 @@
         "letter": "U",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FAD02E"
+        "color": "#ce8903"
       },
       {
         "letter": "O",
@@ -384,7 +384,7 @@
         "letter": "M",
         "wordIndex": 0,
         "group": 0,
-        "color": "#FAD02E"
+        "color": "#ce8903"
       },
       {
         "letter": "N",
@@ -410,43 +410,43 @@
         "letter": "E",
         "wordIndex": 4,
         "group": 0,
-        "color": "#C14430"
+        "color": "#29c37b"
       },
       {
         "letter": "G",
         "wordIndex": 4,
         "group": 0,
-        "color": "#C14430"
+        "color": "#29c37b"
       },
       {
         "letter": "A",
         "wordIndex": 4,
         "group": 0,
-        "color": "#C14430"
+        "color": "#29c37b"
       },
       {
         "letter": "S",
         "wordIndex": 4,
         "group": 0,
-        "color": "#C14430"
+        "color": "#29c37b"
       },
       {
         "letter": "U",
         "wordIndex": 4,
         "group": 0,
-        "color": "#C14430"
+        "color": "#29c37b"
       },
       {
         "letter": "A",
         "wordIndex": 4,
         "group": 0,
-        "color": "#C14430"
+        "color": "#29c37b"
       },
       {
         "letter": "S",
         "wordIndex": 4,
         "group": 0,
-        "color": "#C14430"
+        "color": "#29c37b"
       }
     ],
     [
@@ -518,7 +518,7 @@
     {
       "word": "MUSTARD",
       "group": 0,
-      "color": "#FAD02E"
+      "color": "#ce8903"
     },
     {
       "word": "KETCHUP",
@@ -538,7 +538,7 @@
     {
       "word": "SAUSAGE",
       "group": 0,
-      "color": "#C14430"
+      "color": "#29c37b"
     },
     {
       "word": "PICKLES",
