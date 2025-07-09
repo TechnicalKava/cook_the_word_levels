@@ -1,14 +1,4 @@
 [
-  "US_Level_1_HotDog_9x9.json",
-  "US_Level_2_ApplePie_10x10.json",
-  "US_Level_3_Burger_9x9.json",
-  "US_Level_4_Pancakes_8x8.json",
-  "US_Level_5_Cheeseburger_8x8.json",
-  "US_Level_6_MacandCheese_8x8.json",
-  "US_Level_7_BBQRibs_8x8.json",
-  "US_Level_8_CornDog_8x8.json",
-  "US_Level_9_BuffaloWings_8x8.json",
-  "US_Level_10_ClamChowder_8x8.json",
   "FR_Level_1_Croissant_9x9.json",
   "FR_Level_2_Crèmebrûlée_8x8.json",
   "FR_Level_3_FrogLegs_10x10.json",
@@ -78,5 +68,15 @@
   "IT_Level_7_Risotto_9x9.json",
   "IT_Level_8_Minestrone_10x10.json",
   "IT_Level_9_SpaghettiBolognese_10x10.json",
-  "IT_Level_10_Parmigiana_11x11.json"
+  "IT_Level_10_Parmigiana_11x11.json",
+  "US_Level_1_HotDog_9x9.json",
+  "US_Level_2_ApplePie_10x10.json",
+  "US_Level_3_Burger_9x9.json",
+  "US_Level_4_Pancakes_8x8.json",
+  "US_Level_5_Cheeseburger_8x8.json",
+  "US_Level_6_MacandCheese_8x8.json",
+  "US_Level_7_BBQRibs_8x8.json",
+  "US_Level_8_CornDog_8x8.json",
+  "US_Level_9_BuffaloWings_8x8.json",
+  "US_Level_10_ClamChowder_8x8.json"
 ]
