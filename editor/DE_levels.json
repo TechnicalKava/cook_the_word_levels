@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Brezel",
+    "words": [
+      { "word": "FLOUR", "color": "#a59d93", "translation": "Мука" },
+      { "word": "YEAST", "color": "#fb9053", "translation": "Дрожжи" },
+      { "word": "SALT", "color": "#8c4f43", "translation": "Соль" },
+      { "word": "BUTTER", "color": "#bf32b3", "translation": "Масло" },
+      { "word": "WATER", "color": "#2add29", "translation": "Вода" }
+    ]
+  },
+  {
+    "name": "Currywurst",
+    "words": [
+      { "word": "SAUSAGE", "color": "#29c37b", "translation": "Колбаса" },
+      { "word": "KETCHUP", "color": "#d5e248", "translation": "Кетчуп" },
+      { "word": "CURRY", "color": "#278c43", "translation": "Карри" },
+      { "word": "PAPRIKA", "color": "#0bf9fc", "translation": "Паприка" }
+    ]
+  },
+  {
+    "name": "Schweinshaxe",
+    "words": [
+      { "word": "PORK", "color": "#fc9f5d", "translation": "Свиная рулька" },
+      { "word": "GARLIC", "color": "#23a3dc", "translation": "Чеснок" },
+      { "word": "SALT", "color": "#8c4f43", "translation": "Соль" },
+      { "word": "PEPPER", "color": "#20c8c0", "translation": "Перец" },
+      { "word": "BEER", "color": "#a8e8a7", "translation": "Пиво" }
+    ]
+  },
+  {
+    "name": "Eintopf",
+    "words": [
+      { "word": "POTATO", "color": "#8ac6f2", "translation": "Картофель" },
+      { "word": "CARROT", "color": "#7816b5", "translation": "Морковь" },
+      { "word": "CELERY", "color": "#d49b8a", "translation": "Сельдерей" },
+      { "word": "BEANS", "color": "#88bbd7", "translation": "Фасоль" },
+      { "word": "MEAT", "color": "#943233", "translation": "Мясо" }
+    ]
+  },
+  {
+    "name": "Wiener Schnitzel",
+    "words": [
+      { "word": "VEAL", "color": "#a4c788", "translation": "Телятина" },
+      { "word": "FLOUR", "color": "#a59d93", "translation": "Мука" },
+      { "word": "EGG", "color": "#54433e", "translation": "Яйцо" },
+      { "word": "BREADCRUMBS", "color": "#d5cd42", "translation": "Сухари" },
+      { "word": "LEMON", "color": "#164d04", "translation": "Лимон" }
+    ]
+  },
+  {
+    "name": "Sauerkraut",
+    "words": [
+      { "word": "CABBAGE", "color": "#eddb77", "translation": "Капуста" },
+      { "word": "SALT", "color": "#8c4f43", "translation": "Соль" },
+      { "word": "CARAWAY", "color": "#a46dbd", "translation": "Тмин" },
+      { "word": "VINEGAR", "color": "#373431", "translation": "Уксус" }
+    ]
+  },
+  {
+    "name": "Kartoffelsalat",
+    "words": [
+      { "word": "POTATO", "color": "#8ac6f2", "translation": "Картофель" },
+      { "word": "ONION", "color": "#6da510", "translation": "Лук" },
+      { "word": "VINEGAR", "color": "#373431", "translation": "Уксус" },
+      { "word": "OIL", "color": "#a2eba9", "translation": "Масло" },
+      { "word": "MUSTARD", "color": "#865186", "translation": "Горчица" }
+    ]
+  },
+  {
+    "name": "Spatzle",
+    "words": [
+      { "word": "FLOUR", "color": "#a59d93", "translation": "Мука" },
+      { "word": "EGG", "color": "#54433e", "translation": "Яйцо" },
+      { "word": "MILK", "color": "#b31b27", "translation": "Молоко" },
+      { "word": "BUTTER", "color": "#bf32b3", "translation": "Масло" },
+      { "word": "CHEESE", "color": "#0b2ebc", "translation": "Сыр" }
+    ]
+  },
+  {
+    "name": "Leberkase",
+    "words": [
+      { "word": "PORK", "color": "#9ac44f", "translation": "Свинина" },
+      { "word": "BEEF", "color": "#aa3382", "translation": "Говядина" },
+      { "word": "ONION", "color": "#6da510", "translation": "Лук" },
+      { "word": "NUTMEG", "color": "#12f5fc", "translation": "Мускатный орех" },
+      { "word": "BUN", "color": "#474289", "translation": "Булка" }
+    ]
+  },
+  {
+    "name": "Schwarzwalder Kirschtorte",
+    "words": [
+      { "word": "CHOCOLATE", "color": "#901bf4", "translation": "Шоколад" },
+      { "word": "EGG", "color": "#54433e", "translation": "Яйцо" },
+      { "word": "SUGAR", "color": "#1ba040", "translation": "Сахар" },
+      { "word": "CREAM", "color": "#5a98ab", "translation": "Сливки" },
+      { "word": "CHERRY", "color": "#a3dfdc", "translation": "Вишня" },
+      { "word": "KIRSCH", "color": "#e5d137", "translation": "Кирш (вишнёвый бренди)" }
+    ]
+  }
+]
