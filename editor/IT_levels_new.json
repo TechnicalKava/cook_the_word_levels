@@ -1,0 +1,284 @@
+[
+  {
+    "recipe": "Margherita",
+    "ingredients": [
+      {
+        "word": "DOUGH",
+        "translation": "тесто"
+      },
+      {
+        "word": "TOMATOES",
+        "translation": "помидоры"
+      },
+      {
+        "word": "MOZZARELLA",
+        "translation": "моцарелла"
+      },
+      {
+        "word": "BASIL",
+        "translation": "базилик"
+      }
+    ]
+  },
+  {
+    "recipe": "Bruschetta",
+    "ingredients": [
+      {
+        "word": "BREAD",
+        "translation": "хлеб"
+      },
+      {
+        "word": "CHERRY",
+        "translation": "черри"
+      },
+      {
+        "word": "GARLIC",
+        "translation": "чеснок"
+      },
+      {
+        "word": "BASIL",
+        "translation": "базилик"
+      },
+      {
+        "word": "OIL",
+        "translation": "масло"
+      }
+    ]
+  },
+  {
+    "recipe": "Carbonara",
+    "ingredients": [
+      {
+        "word": "PASTA",
+        "translation": "паста"
+      },
+      {
+        "word": "EGG",
+        "translation": "яйцо"
+      },
+      {
+        "word": "PANCETTA",
+        "translation": "панчетта"
+      },
+      {
+        "word": "PARMIGIANO",
+        "translation": "пармезан"
+      },
+      {
+        "word": "PEPPER",
+        "translation": "перец"
+      }
+    ]
+  },
+  {
+    "recipe": "Caprese",
+    "ingredients": [
+      {
+        "word": "MOZZARELLA",
+        "translation": "моцарелла"
+      },
+      {
+        "word": "TOMATOES",
+        "translation": "помидоры"
+      },
+      {
+        "word": "BASIL",
+        "translation": "базилик"
+      },
+      {
+        "word": "OIL",
+        "translation": "масло"
+      },
+      {
+        "word": "SALT",
+        "translation": "соль"
+      }
+    ]
+  },
+  {
+    "recipe": "Focaccia",
+    "ingredients": [
+      {
+        "word": "FLOUR",
+        "translation": "мука"
+      },
+      {
+        "word": "WATER",
+        "translation": "вода"
+      },
+      {
+        "word": "YEAST",
+        "translation": "дрожжи"
+      },
+      {
+        "word": "OIL",
+        "translation": "масло"
+      },
+      {
+        "word": "SALT",
+        "translation": "соль"
+      },
+      {
+        "word": "ROSEMARY",
+        "translation": "розмарин"
+      }
+    ]
+  },
+  {
+    "recipe": "Tiramisu",
+    "ingredients": [
+      {
+        "word": "MASCARPONE",
+        "translation": "маскарпоне"
+      },
+      {
+        "word": "COFFEE",
+        "translation": "кофе"
+      },
+      {
+        "word": "COOKIES",
+        "translation": "печенье"
+      },
+      {
+        "word": "COCOA",
+        "translation": "какао"
+      },
+      {
+        "word": "EGG",
+        "translation": "яйцо"
+      },
+      {
+        "word": "SUGAR",
+        "translation": "сахар"
+      }
+    ]
+  },
+  {
+    "recipe": "Risotto",
+    "ingredients": [
+      {
+        "word": "RICE",
+        "translation": "рис"
+      },
+      {
+        "word": "BROTH",
+        "translation": "бульон"
+      },
+      {
+        "word": "WINE",
+        "translation": "вино"
+      },
+      {
+        "word": "SAFFRON",
+        "translation": "шафран"
+      },
+      {
+        "word": "PARMIGIANO",
+        "translation": "пармезан"
+      },
+      {
+        "word": "BUTTER",
+        "translation": "масло"
+      },
+      {
+        "word": "SHALLOT",
+        "translation": "шалот"
+      }
+    ]
+  },
+  {
+    "recipe": "Lasagna",
+    "ingredients": [
+      {
+        "word": "PASTA",
+        "translation": "паста"
+      },
+      {
+        "word": "MINCE",
+        "translation": "фарш"
+      },
+      {
+        "word": "TOMATOES",
+        "translation": "помидоры"
+      },
+      {
+        "word": "CHEESE",
+        "translation": "сыр"
+      },
+      {
+        "word": "MILK",
+        "translation": "молоко"
+      },
+      {
+        "word": "BUTTER",
+        "translation": "масло"
+      },
+      {
+        "word": "ONION",
+        "translation": "лук"
+      }
+    ]
+  },
+  {
+    "recipe": "Ravioli",
+    "ingredients": [
+      {
+        "word": "PASTA",
+        "translation": "паста"
+      },
+      {
+        "word": "RICOTTA",
+        "translation": "рикотта"
+      },
+      {
+        "word": "SPINACH",
+        "translation": "шпинат"
+      },
+      {
+        "word": "GARLIC",
+        "translation": "чеснок"
+      },
+      {
+        "word": "HERBS",
+        "translation": "травы"
+      },
+      {
+        "word": "OIL",
+        "translation": "масло"
+      }
+    ]
+  },
+  {
+    "recipe": "Minestrone",
+    "ingredients": [
+      {
+        "word": "VEGETABLES",
+        "translation": "овощи"
+      },
+      {
+        "word": "BEANS",
+        "translation": "фасоль"
+      },
+      {
+        "word": "PASTA",
+        "translation": "паста"
+      },
+      {
+        "word": "BROTH",
+        "translation": "бульон"
+      },
+      {
+        "word": "TOMATOES",
+        "translation": "помидоры"
+      },
+      {
+        "word": "ONION",
+        "translation": "лук"
+      },
+      {
+        "word": "CELERY",
+        "translation": "сельдерей"
+      }
+    ]
+  }
+]
