@@ -38,5 +38,15 @@
   "DE_Level_7_Spatzle_9x9.json",
   "DE_Level_8_WienerSchnitzel_10x11.json",
   "DE_Level_9_Eintopf_10x10.json",
-  "DE_Level_10_SchwarzwalderKirschtorte_10x10.json"
+  "DE_Level_10_SchwarzwalderKirschtorte_10x10.json",
+  "GR_Level_1_Loukoumades_8x8.json",
+  "GR_Level_2_Tzatziki_8x8.json",
+  "GR_Level_3_Keftedes_8x8.json",
+  "GR_Level_4_Gyros_8x8.json",
+  "GR_Level_5_Rizogalo_10x10.json",
+  "GR_Level_6_Souvlaki_10x10.json",
+  "GR_Level_7_Pastitsio_10x10.json",
+  "GR_Level_8_GreekSalad_10x10.json",
+  "GR_Level_9_Spanakopita_10x10.json",
+  "GR_Level_10_Moussaka_10x10.json"
 ]
