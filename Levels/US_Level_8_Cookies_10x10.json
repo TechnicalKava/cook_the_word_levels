@@ -626,7 +626,6 @@
     "SUGAR",
     "BUTTER",
     "FLOUR",
-    "SODA",
     "COCOA",
     "CHOCOLATE"
   ],
@@ -648,11 +647,6 @@
     },
     {
       "word": "FLOUR",
-      "group": 0,
-      "color": "#ffe082"
-    },
-    {
-      "word": "SODA",
       "group": 0,
       "color": "#ffe082"
     },
