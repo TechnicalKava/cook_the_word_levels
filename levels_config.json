@@ -58,5 +58,15 @@
   "CH_Level_7_MapoTofu_9x9.json",
   "CH_Level_8_HotPot_10x10.json",
   "CH_Level_9_FriedRice_10x10.json",
-  "CH_Level_10_ShrimpNoodles_11x11.json"
+  "CH_Level_10_ShrimpNoodles_11x11.json",
+  "KO_Level_1_Kimchi_8x8.json",
+  "KO_Level_2_RiceCake_8x8.json",
+  "KO_Level_3_FriedChicken_9x9.json",
+  "KO_Level_4_BeefSoup_11x11.json",
+  "KO_Level_5_Gimbap_9x9.json",
+  "KO_Level_6_SeafoodPancake_10x10.json",
+  "KO_Level_7_Bibimbap_11x11.json",
+  "KO_Level_8_PorkBulgogi_11x11.json",
+  "KO_Level_9_TofuStew_11x11.json",
+  "KO_Level_10_GlassNoodles_11x11.json"
 ]

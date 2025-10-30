@@ -1,51 +1,8 @@
 {
-  "background": "KO",
   "grid": [
     [
       {
-        "letter": "P",
-        "wordIndex": 5,
-        "group": 0,
-        "color": "#7e7e7e"
-      },
-      {
-        "letter": "E",
-        "wordIndex": 5,
-        "group": 0,
-        "color": "#7e7e7e"
-      },
-      {
-        "letter": "P",
-        "wordIndex": 5,
-        "group": 0,
-        "color": "#7e7e7e"
-      },
-      {
-        "letter": "P",
-        "wordIndex": 5,
-        "group": 0,
-        "color": "#7e7e7e"
-      },
-      {
-        "letter": "E",
-        "wordIndex": 5,
-        "group": 0,
-        "color": "#7e7e7e"
-      },
-      {
-        "letter": "R",
-        "wordIndex": 5,
-        "group": 0,
-        "color": "#7e7e7e"
-      },
-      {
-        "letter": "C",
-        "wordIndex": 4,
-        "group": 0,
-        "color": "#cc8226"
-      },
-      {
-        "letter": "T",
+        "letter": "N",
         "wordIndex": null,
         "group": null,
         "color": null
@@ -57,39 +14,13 @@
         "color": null
       },
       {
-        "letter": "P",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      }
-    ],
-    [
-      {
-        "letter": "Z",
+        "letter": "G",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "F",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "K",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "Y",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "K",
+        "letter": "E",
         "wordIndex": null,
         "group": null,
         "color": null
@@ -102,230 +33,12 @@
       },
       {
         "letter": "I",
-        "wordIndex": 4,
-        "group": 0,
-        "color": "#cc8226"
-      },
-      {
-        "letter": "A",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "G",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "G",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      }
-    ],
-    [
-      {
-        "letter": "S",
-        "wordIndex": 2,
-        "group": 0,
-        "color": "#deb887"
-      },
-      {
-        "letter": "E",
-        "wordIndex": 2,
-        "group": 0,
-        "color": "#deb887"
-      },
-      {
-        "letter": "S",
-        "wordIndex": 2,
-        "group": 0,
-        "color": "#deb887"
-      },
-      {
-        "letter": "A",
-        "wordIndex": 2,
-        "group": 0,
-        "color": "#deb887"
-      },
-      {
-        "letter": "M",
-        "wordIndex": 2,
-        "group": 0,
-        "color": "#deb887"
-      },
-      {
-        "letter": "E",
-        "wordIndex": 2,
-        "group": 0,
-        "color": "#deb887"
-      },
-      {
-        "letter": "L",
-        "wordIndex": 4,
-        "group": 0,
-        "color": "#cc8226"
-      },
-      {
-        "letter": "Z",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "G",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "W",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      }
-    ],
-    [
-      {
-        "letter": "X",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "T",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "A",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "C",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "T",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "R",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "R",
-        "wordIndex": 4,
-        "group": 0,
-        "color": "#cc8226"
-      },
-      {
-        "letter": "S",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "P",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "N",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      }
-    ],
-    [
-      {
-        "letter": "Y",
-        "wordIndex": 6,
-        "group": 0,
-        "color": "#8B4513"
-      },
-      {
-        "letter": "O",
-        "wordIndex": 6,
-        "group": 0,
-        "color": "#8B4513"
-      },
-      {
-        "letter": "S",
-        "wordIndex": 6,
-        "group": 0,
-        "color": "#8B4513"
-      },
-      {
-        "letter": "G",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "P",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "K",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "A",
-        "wordIndex": 4,
-        "group": 0,
-        "color": "#cc8226"
-      },
-      {
-        "letter": "B",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "N",
-        "wordIndex": 3,
-        "group": 0,
-        "color": "#d1921c"
-      },
-      {
-        "letter": "E",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      }
-    ],
-    [
-      {
-        "letter": "A",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "P",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "X",
+        "letter": "I",
         "wordIndex": null,
         "group": null,
         "color": null
@@ -337,37 +50,13 @@
         "color": null
       },
       {
-        "letter": "V",
+        "letter": "B",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "Q",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "G",
-        "wordIndex": 4,
-        "group": 0,
-        "color": "#cc8226"
-      },
-      {
-        "letter": "O",
-        "wordIndex": 0,
-        "group": 0,
-        "color": "#841978"
-      },
-      {
-        "letter": "O",
-        "wordIndex": 3,
-        "group": 0,
-        "color": "#d1921c"
-      },
-      {
-        "letter": "X",
+        "letter": "Z",
         "wordIndex": null,
         "group": null,
         "color": null
@@ -375,61 +64,61 @@
     ],
     [
       {
-        "letter": "B",
+        "letter": "O",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "R",
-        "wordIndex": 7,
-        "group": 0,
-        "color": "#f8f8ff"
-      },
-      {
-        "letter": "A",
-        "wordIndex": 7,
-        "group": 0,
-        "color": "#f8f8ff"
-      },
-      {
-        "letter": "G",
-        "wordIndex": 7,
-        "group": 0,
-        "color": "#f8f8ff"
-      },
-      {
-        "letter": "U",
-        "wordIndex": 7,
-        "group": 0,
-        "color": "#f8f8ff"
+        "letter": "T",
+        "wordIndex": null,
+        "group": null,
+        "color": null
       },
       {
         "letter": "S",
-        "wordIndex": 7,
+        "wordIndex": 4,
         "group": 0,
-        "color": "#f8f8ff"
+        "color": "#ffe082"
       },
       {
-        "letter": "I",
-        "wordIndex": 0,
-        "group": 0,
-        "color": "#841978"
+        "letter": "J",
+        "wordIndex": null,
+        "group": null,
+        "color": null
       },
       {
-        "letter": "K",
-        "wordIndex": 1,
-        "group": 0,
-        "color": "#e4c2af"
+        "letter": "F",
+        "wordIndex": null,
+        "group": null,
+        "color": null
       },
       {
-        "letter": "I",
-        "wordIndex": 3,
-        "group": 0,
-        "color": "#d1921c"
+        "letter": "L",
+        "wordIndex": null,
+        "group": null,
+        "color": null
       },
       {
         "letter": "X",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "P",
+        "wordIndex": 0,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "R",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "O",
         "wordIndex": null,
         "group": null,
         "color": null
@@ -443,19 +132,75 @@
         "color": null
       },
       {
-        "letter": "N",
+        "letter": "L",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "B",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
         "letter": "C",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "T",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "S",
+        "letter": "Z",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "M",
+        "wordIndex": 0,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "X",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "R",
+        "wordIndex": 3,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "E",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      }
+    ],
+    [
+      {
+        "letter": "I",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "O",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "V",
         "wordIndex": null,
         "group": null,
         "color": null
@@ -467,31 +212,37 @@
         "color": null
       },
       {
-        "letter": "L",
+        "letter": "A",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "I",
         "wordIndex": 0,
         "group": 0,
-        "color": "#841978"
-      },
-      {
-        "letter": "R",
-        "wordIndex": 1,
-        "group": 0,
-        "color": "#e4c2af"
-      },
-      {
-        "letter": "R",
-        "wordIndex": null,
-        "group": null,
-        "color": null
+        "color": "#ffe082"
       },
       {
         "letter": "N",
-        "wordIndex": 3,
-        "group": 0,
-        "color": "#d1921c"
+        "wordIndex": null,
+        "group": null,
+        "color": null
       },
       {
-        "letter": "I",
+        "letter": "U",
+        "wordIndex": 3,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "Q",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "H",
         "wordIndex": null,
         "group": null,
         "color": null
@@ -505,19 +256,273 @@
         "color": null
       },
       {
+        "letter": "C",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "A",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "E",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "R",
+        "wordIndex": 0,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "L",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "O",
+        "wordIndex": 3,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "E",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "G",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "G",
+        "wordIndex": 1,
+        "group": 0,
+        "color": "#ffe082"
+      }
+    ],
+    [
+      {
+        "letter": "A",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "T",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "S",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "H",
+        "wordIndex": 0,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "M",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "L",
+        "wordIndex": 3,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "L",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "B",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "H",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "P",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      }
+    ],
+    [
+      {
+        "letter": "I",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "O",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "S",
+        "wordIndex": 0,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "B",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "F",
+        "wordIndex": 3,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "O",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "X",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "I",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "V",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "Z",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      }
+    ],
+    [
+      {
+        "letter": "F",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "P",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "I",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "B",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "M",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "G",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "O",
+        "wordIndex": 5,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
         "letter": "P",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "L",
+        "letter": "O",
+        "wordIndex": 4,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "O",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      }
+    ],
+    [
+      {
+        "letter": "T",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "L",
+        "letter": "U",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "A",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "Y",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "I",
         "wordIndex": null,
         "group": null,
         "color": null
@@ -530,92 +535,86 @@
       },
       {
         "letter": "O",
-        "wordIndex": 1,
-        "group": 0,
-        "color": "#e4c2af"
-      },
-      {
-        "letter": "Y",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "R",
+        "letter": "I",
+        "wordIndex": 5,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "T",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "O",
-        "wordIndex": 3,
+        "letter": "N",
+        "wordIndex": 4,
         "group": 0,
-        "color": "#d1921c"
+        "color": "#ffe082"
+      }
+    ],
+    [
+      {
+        "letter": "U",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "S",
+        "wordIndex": 2,
+        "group": 0,
+        "color": "#ffe082"
+      },
+      {
+        "letter": "N",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "Q",
+        "wordIndex": null,
+        "group": null,
+        "color": null
+      },
+      {
+        "letter": "E",
+        "wordIndex": null,
+        "group": null,
+        "color": null
       },
       {
         "letter": "W",
         "wordIndex": null,
         "group": null,
         "color": null
-      }
-    ],
-    [
+      },
       {
-        "letter": "S",
+        "letter": "B",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "N",
+        "letter": "G",
         "wordIndex": null,
         "group": null,
         "color": null
       },
       {
-        "letter": "M",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "M",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "P",
-        "wordIndex": 1,
+        "letter": "L",
+        "wordIndex": 5,
         "group": 0,
-        "color": "#e4c2af"
+        "color": "#ffe082"
       },
       {
-        "letter": "A",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "S",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "H",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "S",
-        "wordIndex": null,
-        "group": null,
-        "color": null
-      },
-      {
-        "letter": "N",
+        "letter": "J",
         "wordIndex": null,
         "group": null,
         "color": null
@@ -623,60 +622,49 @@
     ]
   ],
   "words": [
-    "OIL",
-    "PORK",
-    "SESAME",
-    "ONION",
-    "GARLIC",
-    "PEPPER",
-    "SOY",
-    "SUGAR"
+    "SHRIMP",
+    "EGG",
+    "OCTOPUS",
+    "FLOUR",
+    "SCALLION",
+    "OIL"
   ],
   "wordsWithGroups": [
     {
+      "word": "SHRIMP",
+      "group": 0,
+      "color": "#ffe082"
+    },
+    {
+      "word": "EGG",
+      "group": 0,
+      "color": "#ffe082"
+    },
+    {
+      "word": "OCTOPUS",
+      "group": 0,
+      "color": "#ffe082"
+    },
+    {
+      "word": "FLOUR",
+      "group": 0,
+      "color": "#ffe082"
+    },
+    {
+      "word": "SCALLION",
+      "group": 0,
+      "color": "#ffe082"
+    },
+    {
       "word": "OIL",
       "group": 0,
-      "color": "#841978"
-    },
-    {
-      "word": "PORK",
-      "group": 0,
-      "color": "#e4c2af"
-    },
-    {
-      "word": "SESAME",
-      "group": 0,
-      "color": "#deb887"
-    },
-    {
-      "word": "ONION",
-      "group": 0,
-      "color": "#d1921c"
-    },
-    {
-      "word": "GARLIC",
-      "group": 0,
-      "color": "#cc8226"
-    },
-    {
-      "word": "PEPPER",
-      "group": 0,
-      "color": "#7e7e7e"
-    },
-    {
-      "word": "SOY",
-      "group": 0,
-      "color": "#8B4513"
-    },
-    {
-      "word": "SUGAR",
-      "group": 0,
-      "color": "#f8f8ff"
+      "color": "#ffe082"
     }
   ],
-  "theme": "PorkBulgogi",
+  "theme": "Seafood Pancake",
   "size": {
     "width": 10,
     "height": 10
-  }
+  },
+  "background": "KO"
 }
