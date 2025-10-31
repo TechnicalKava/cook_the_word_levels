@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Donburi",
+    "words": [
+      { "word": "EGG", "translation": "Яйце" },
+      { "word": "BEEF",  "translation": "Яловичина" },
+      { "word": "RICE", "translation": "Рис" },
+      { "word": "SCALLION", "translation": "Зелена цибуля" }      
+    ]
+  },
+  {
+    "name": "Yakitori",
+    "words": [
+      { "word": "CHICKEN", "translation": "Курка" },
+      { "word": "LEEK", "translation": "Порей" },
+      { "word": "SAUCE", "translation": "Соус" },
+      { "word": "SESAME", "translation": "Кунжут" }
+       ]
+  },
+  {
+    "name": "Nigiri-zushi",
+    "words": [
+      { "word": "RICE", "translation": "Рис" },
+      { "word": "SALMON", "translation": "Лосось" },
+      { "word": "WASABI", "translation": "Васабі" },
+      { "word": "GINGER", "translation": "Імбир" },
+      { "word": "SAUCE", "translation": "Соус" }
+    ]
+  },
+  {
+    "name": "Miso-Soup",
+    "words": [
+      { "word": "MISO", "translation": "Місо паста" },
+      { "word": "TOFU", "translation": "Тофу" },
+      { "word": "SEAWEED", "translation": "Водорості вакаме" },
+      { "word": "BROTH", "translation": "Бульйон" },
+      { "word": "SCALLION", "translation": "Зелена цибуля" }
+    ]
+  },
+  {
+    "name": "Takoyaki",
+    "words": [
+      { "word": "OCTOPUS", "translation": "Восьминіг" },
+      { "word": "DOUGH", "translation": "Тесто" },
+      { "word": "SCALLION", "translation": "Зелена цибуля" },
+      { "word": "GINGER", "translation": "Імбир" },
+      { "word": "SAUCE", "translation": "Соус" }
+    ]
+  },
+  {
+    "name": "Ramen",
+    "words": [
+      { "word": "NOODLES", "translation": "Локшина" },
+      { "word": "BROTH", "translation": "Бульйон" },
+      { "word": "SAUCE", "translation": "Соус" },
+      { "word": "EGG", "translation": "Яйце" },
+      { "word": "PORK", "translation": "Свинина Чашю" },
+      { "word": "MUSHROOM", "translation": "Гриби" },
+      { "word": "NORI", "translation": "Водорості" }
+    ]
+  },
+  {
+    "name": "Guoza",
+    "words": [
+      { "word": "GARLIC", "translation": "Часник" },
+      { "word": "DOUGH", "translation": "Тесто" },
+      { "word": "VINEGAR", "translation": "Оцет" },
+      { "word": "GINGER", "translation": "Імбир" },
+      { "word": "MINCE", "translation": "Фарш" },
+      { "word": "CABBAGE", "translation": "Капуста" }
+    ]
+  },
+  {
+    "name": "Tempura",
+    "words": [
+      { "word": "SHRIMP", "translation": "Креветка" },
+      { "word": "PANKO", "translation": "Сухарі Панко" },
+      { "word": "EGGPLANT", "translation": "Баклажан" },
+      { "word": "CARROT", "translation": "Морква" },
+      { "word": "SWEETPEPPER", "translation": "Смажений перець" },
+      { "word": "FLOUR", "translation": "Борошно" },
+      { "word": "OIL", "translation": "Олія" }
+    ]
+  },
+  {
+    "name": "Udon",
+    "words": [
+      { "word": "NOODLES", "color": "#f5e2af", "translation": "Локшина" },
+      { "word": "SALMON", "translation": "Лосось" },
+      { "word": "SEAWEED", "translation": "Шпинат" },
+      { "word": "MASHROOM", "translation": "Гриби" },
+      { "word": "TOFU", "translation": "Тофу" },
+      { "word": "BROTH", "translation": "Бульйон" },
+      { "word": "SAUCE", "translation": "Соус" },
+      { "word": "SESAME", "translation": "Кунжут" }
+    ]
+  },
+  {
+    "name": "Okonomiyaki",
+    "words": [
+      { "word": "CABBAGE", "translation": "Капуста" },
+      { "word": "PORK", "translation": "Свинина" },
+      { "word": "MUSTARD", "translation": "Гірчиця" },
+      { "word": "SCALLION", "translation": "Зелена цибуля" },
+      { "word": "GINGER", "translation": "Імбир" },
+      { "word": "SAUCE", "translation": "Соус" },
+      { "word": "FLOUR", "translation": "Борошно" },
+      { "word": "CHEESE", "translation": "Сир" },
+      { "word": "EGG", "translation": "Яйце" }
+    ]
+  }
+]

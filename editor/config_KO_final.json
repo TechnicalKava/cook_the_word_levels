@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Kimchi",
+    "words": [
+      { "word": "CABBAGE", "translation": "Капуста" },
+      { "word": "CHILI", "translation": "Перець чилі" },
+      { "word": "GARLIC", "translation": "Часник" },
+      { "word": "SALT", "translation": "Сіль" }
+    ]
+  },
+  {
+    "name": "RiceCake",
+    "words": [
+      { "word": "BEANS", "translation": "Бобы" },
+      { "word": "RICE", "translation": "Рис" },
+      { "word": "SUGAR", "translation": "Цукор" },
+      { "word": "SESAME", "translation": "Кунжут" }
+    ]
+  },
+  {
+    "name": "FriedChicken",
+    "words": [
+      { "word": "CHICKEN", "translation": "Курка" },
+      { "word": "FLOUR", "translation": "Борошно" },
+      { "word": "OIL", "translation": "Олія" },
+      { "word": "HONEY", "translation": "Мед" },
+      { "word": "GARLIC", "translation": "Часник" }
+    ]
+  },
+  {
+    "name": "BeefSoup",
+    "words": [
+      { "word": "BEEF", "translation": "Яловичина" },
+      { "word": "BROTH", "translation": "Бульйон" },
+      { "word": "ONION", "translation": "Цибуля" },
+      { "word": "SCALLION", "translation": "Зелена цибуля" },
+      { "word": "SWEETPEPPER", "translation": "Перець" }
+    ]
+  },
+  {
+    "name": "Gimbap",
+    "words": [
+      { "word": "RICE", "translation": "Рис" },
+      { "word": "NORI", "translation": "Водорості" },
+      { "word": "CUCUMBER", "translation": "Огірок" },
+      { "word": "CARROT", "translation": "Морква" },
+      { "word": "EGG", "color": "#FFE38C", "translation": "Яйце" }
+    ]
+  },
+  {
+    "name": "SeafoodPancake",
+    "words": [
+      { "word": "SHRIMP", "translation": "Креветка" },
+      { "word": "EGG", "translation": "Яйце" },
+      { "word": "OCTOPUS", "translation": "Восьминіг" },
+      { "word": "FLOUR", "translation": "Борошно" },
+      { "word": "SCALLION", "translation": "Зелена цибуля" },
+      { "word": "OIL", "translation": "Олія" }
+    ]
+  },
+  {
+    "name": "Bibimbap",
+    "words": [
+      { "word": "EGG", "translation": "Яйце" },
+      { "word": "CARROT", "translation": "Морква" },
+      { "word": "BEEF", "translation": "Яловичина" },
+      { "word": "SPINACH", "translation": "Шпинат" },
+      { "word": "RICEBOWL", "translation": "Чаша з рисом" },
+      { "word": "CUCUMBER", "translation": "Огірок" }
+    ]
+  },
+  {
+    "name": "PorkBulgogi",
+    "words": [
+      { "word": "PORK", "translation": "Свинина" },
+      { "word": "OIL", "translation": "Олія" },
+      { "word": "SESAME", "translation": "Кунжут" },
+      { "word": "SWEETPEPPER", "translation": "Перець солодкий" },
+      { "word": "GARLIC", "translation": "Часник" },
+      { "word": "ONION", "translation": "Цибуля" },
+      { "word": "SUGAR", "translation": "Цукор" },
+      { "word": "SOY", "translation": "Соєвий соус" }
+    ]
+  },
+  {
+    "name": "TofuStew",
+    "words": [
+      { "word": "SOY", "translation": "Соєвий соус" },
+      { "word": "TOFU", "translation": "Тофу" },
+      { "word": "SCALLION", "translation": "Зелена цибуля" },
+      { "word": "MUSHROOM", "translation": "Гриб" },
+      { "word": "ZUCCHINI", "translation": "Цукіні" },
+      { "word": "EGG", "translation": "Яйце" },
+      { "word": "OIL", "translation": "Олія" },
+      { "word": "CHILI", "translation": "Перець чилі" }
+    ]
+  },
+  {
+    "name": "GlassNoodles",
+    "words": [
+      { "word": "NOODLES", "translation": "Локшина" },
+      { "word": "SESAME", "translation": "Кунжут" },
+      { "word": "SOY", "translation": "Соєвий соус" },
+      { "word": "SWEETPEPPER", "translation": "Перець солодкий" },
+      { "word": "BEEF", "translation": "Яловичина" },
+      { "word": "MUSHROOM", "translation": "Гриб" },
+      { "word": "SPINACH", "translation": "Шпинат" },
+      { "word": "CARROT", "translation": "Морква" }
+    ]
+  }
+]

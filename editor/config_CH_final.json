@@ -1,0 +1,108 @@
+[
+  {
+    "name": "CrispyDuck",
+    "words": [
+      { "word": "DUCK", "translation": "Качка" },
+      { "word": "HONEY", "translation": "Мед" },
+      { "word": "SAUCE", "translation": "Соус" },
+      { "word": "SPICES", "translation": "Специи" }
+    ]
+  },
+  {
+    "name": "SmashedCucumberSalad",
+    "words": [
+      { "word": "CUCUMBER", "translation": "Огірок" },
+      { "word": "GARLIC", "translation": "Мед" },
+      { "word": "SALT", "translation": "Сіль" },
+      { "word": "OIL", "translation": "Олія" }
+    ]
+  },
+  {
+    "name": "BeefBroccoli",
+    "words": [
+      { "word": "BEEF",  "translation": "Яловичина" },
+      { "word": "OIL", "translation": "Олія" },
+      { "word": "BROCCOLI",  "translation": "Броколі" },
+      { "word": "SAUCE", "translation": "Соус" },
+      { "word": "SPICES", "translation": "Специи" }
+    ]
+  },
+  {
+    "name": "SpringRoll",
+    "words": [
+      { "word": "MINCE", "translation": "Фарш" },
+      { "word": "CABBAGE", "translation": "Капуста" },
+      { "word": "CARROT", "translation": "Морква" },
+      { "word": "MUSHROOMS", "translation": "Гриби" },
+      { "word": "DOUGH", "translation": "Тісто" },
+      { "word": "GARLIC", "translation": "Часник" }
+    ]
+  },
+  {
+    "name": "KungChicken",
+    "words": [
+      { "word": "CHICKEN", "translation": "Курка" },
+      { "word": "SAUCE", "translation": "Соус" },
+      { "word": "PEANUT", "translation": "Арахіс" },
+      { "word": "CHILI", "translation": "Перець чилі" },
+      { "word": "GARLIC", "translation": "Часник" },
+      { "word": "OIL", "translation": "Олія" }
+    ]
+  },
+  {
+    "name": "SweetPork",
+    "words": [
+      { "word": "PORK", "translation": "Свинина" },
+      { "word": "SUGAR", "translation": "Цукор" },
+      { "word": "VINEGAR", "translation": "Оцет" },
+      { "word": "PEPPER", "translation": "Перець" },
+      { "word": "PINEAPPLE", "translation": "Ананас" },
+      { "word": "SALT", "translation": "Сіль" }
+    ]
+  },
+  {
+    "name": "MapoTofu",
+    "words": [
+      { "word": "TOFU", "translation": "Тофу" },
+      { "word": "MINCE", "translation": "Фарш" },
+      { "word": "GARLIC", "translation": "Часник" },
+      { "word": "SAUCE", "translation": "Соус" },
+      { "word": "BROTH", "translation": "Бульйон" },
+      { "word": "OIL", "translation": "Олія" }
+    ]
+  },
+  {
+    "name": "HotPot",
+    "words": [
+      { "word": "BROTH", "translation": "Бульйон" },
+      { "word": "SPICES", "translation": "Специи" },
+      { "word": "MUSHROOMS", "translation": "Гриби" },
+      { "word": "SCALLION", "translation": "Зелена цибуля" },
+      { "word": "BEEF", "translation": "Яловичина" },
+      { "word": "SAUCE", "translation": "Соус" }
+    ]
+  },
+  {
+    "name": "FriedRice",
+    "words": [
+      { "word": "RICE", "color": "#ccbaf9", "translation": "Рис" },
+      { "word": "EGG", "color": "#FFE38C", "translation": "Яйце" },
+      { "word": "SCALLION", "translation": "Зелена цибуля" },
+      { "word": "SHRIMP", "translation": "Креветка" },
+      { "word": "PEAS", "translation": "Горошок" },
+      { "word": "CARROT", "translation": "Морква" }
+    ]
+  },
+  {
+    "name": "ShrimpNoodles",
+    "words": [
+      { "word": "SHRIMP", "translation": "Креветка" },
+      { "word": "NOODLES", "translation": "Локшина" },
+      { "word": "SWEETPEPPER", "translation": "Перець солодкий" },
+      { "word": "CARROT", "translation": "Морква" },
+      { "word": "SCALLION", "translation": "Зелена цибуля" },
+      { "word": "SAUCE", "translation": "Соус" },
+      { "word": "GARLIC", "translation": "Часник" }
+    ]
+  }
+]
