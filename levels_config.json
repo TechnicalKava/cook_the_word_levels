@@ -68,5 +68,15 @@
   "KO_Level_7_Bibimbap_11x11.json",
   "KO_Level_8_PorkBulgogi_11x11.json",
   "KO_Level_9_TofuStew_11x11.json",
-  "KO_Level_10_GlassNoodles_11x11.json"
+  "KO_Level_10_GlassNoodles_11x11.json",
+  "JP_Level_1_Donburi_9x9.json",  
+  "JP_Level_2_Yakitori_9x9.json",
+  "JP_Level_3_Nigiri-zushi_10x10.json",
+  "JP_Level_4_Miso-Soup_10x10.json",
+  "JP_Level_5_Takoyaki_10x10.json",
+  "JP_Level_6_Ramen_10x10.json",      
+  "JP_Level_7_Guoza_11x11.json",
+  "JP_Level_8_Tempura_11x11.json",
+  "JP_Level_9_Udon_11x11.json",
+  "JP_Level_10_Okonomiyaki_11x11.json"
 ]
